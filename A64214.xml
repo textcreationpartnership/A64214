@@ -1,0 +1,935 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The traytors perspective-glass, or, Sundry examples of Gods just judgments executed upon many eminent regicides, who were either fomentors of the late bloody wars against the King, or had a hand in his death whereunto is added three perfect characters of those late-executed regicides, viz. Okey, Corbet, and Barkstead : wherein many remarkable passages of their several lives, and barbarous actions, from the beginning of the late wars, to the death of that blessed martyr Charles the first are faithfully delineated / by I.T. Gent.</title>
+            <author>J. T. (John Taylor)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64214</idno>
+            <idno type="STC">Wing T521</idno>
+            <idno type="STC">ESTC R2371</idno>
+            <idno type="EEBO-CITATION">11950247</idno>
+            <idno type="OCLC">ocm 11950247</idno>
+            <idno type="VID">51373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The traytors perspective-glass, or, Sundry examples of Gods just judgments executed upon many eminent regicides, who were either fomentors of the late bloody wars against the King, or had a hand in his death whereunto is added three perfect characters of those late-executed regicides, viz. Okey, Corbet, and Barkstead : wherein many remarkable passages of their several lives, and barbarous actions, from the beginning of the late wars, to the death of that blessed martyr Charles the first are faithfully delineated / by I.T. Gent.</title>
+                  <author>J. T. (John Taylor)</author>
+               </titleStmt>
+               <extent>[2], 43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.B. for Phil. Stephens the younger ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Entered in Wing under John Taylor and attributed to Taylor by Halkett and Laing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Okey, John, d. 1662.</term>
+               <term>Corbet, Miles, d. 1662.</term>
+               <term>Barkstead, John, d. 1662.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="list">
+            <pb facs="tcp:51373:1"/>
+            <head>A Catalogue of Gods juſt Judgements againſt ſuch Per<g ref="char:EOLhyphen"/>ſons as are mentioned in the following Treatiſe.</head>
+            <list>
+               <item>
+                  <hi>THE Scots in general.</hi>
+                  <list>
+                     <item>Argile <hi>in particular.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>The Iriſh in general.</hi>
+                  <list>
+                     <item>Mac-quire <hi>and</hi> Mac-mahoon <hi>in particular.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>The Engliſh long Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+                  <list>
+                     <item>
+                        <hi>The Earle of</hi> Eſſex.</item>
+                     <item>Hotham <hi>the Father, and</hi> Hotham <hi>his Son.</hi>
+                     </item>
+                     <item>
+                        <hi>The Lord</hi> Brooks.</item>
+                     <item>John Pym, <hi>one of the five Members in the Long Parliament.</hi>
+                     </item>
+                     <item>
+                        <hi>Col.</hi> Hamden.</item>
+                     <item>
+                        <hi>Alderman</hi> Hoyl.</item>
+                  </list>
+               </item>
+               <item>Oliver Cromwel,
+<list>
+                     <item>Richard <hi>and</hi> Henry Cromwel, <hi>his Sons.</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs.</hi> Clay<g ref="char:EOLhyphen"/>pool. <hi>and The Lady</hi> Frances <hi>his Daugh<g ref="char:EOLhyphen"/>ters.</hi>
+                     </item>
+                     <item>
+                        <hi>Col.</hi> Ireton, <hi>his Son in Law.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Iohn Bradſhaw.</item>
+               <item>
+                  <hi>Col.</hi>
+                  <list>
+                     <item>Dean.</item>
+                     <item>Rainsbrough.</item>
+                     <item>Reynolds.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Capt.</hi> White.</item>
+               <item>
+                  <hi>Dr.</hi> Doriſlans.</item>
+               <item>
+                  <hi>Mr.</hi> Askam.</item>
+               <item>Denis Bond.</item>
+               <item>Chriſtopher Love,</item>
+               <item>
+                  <hi>Mr.</hi> Marſhall.</item>
+               <item>Richard Pym.</item>
+               <item>Horriſon.</item>
+               <item>Carew.</item>
+               <item>Cook.</item>
+               <item>Hugh Peters.</item>
+               <item>Gregory Clement.</item>
+               <item>
+                  <hi>Col.</hi> Scroop.</item>
+               <item>Iones.</item>
+               <item>Seot.</item>
+               <item>Axtel.</item>
+               <item>Hacker.</item>
+               <item>Hulet.</item>
+               <item>Will. <hi>late</hi> Lord Munſon.</item>
+               <item>
+                  <hi>Mr.</hi> Wallup.</item>
+               <item>Mildmay.</item>
+               <item>
+                  <hi>Capt.</hi> Thomas.</item>
+            </list>
+            <div type="list">
+               <head>Traytors Condemned, but not yet Executed.</head>
+               <list>
+                  <item>ON<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Kass.</item>
+                  <item>Auguſtine Garland.</item>
+                  <item>Edm. Hare<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y.</item>
+                  <item>Hen. Smith.</item>
+                  <item>Symon Meyn.</item>
+                  <item>William Heveningham.</item>
+                  <item>Iſaac Pennington.</item>
+                  <item>Sr. Hardreſſe Waller.</item>
+                  <item>George Fleetwood.</item>
+                  <item>Iames Temple.</item>
+                  <item>Peter Temple.</item>
+                  <item>Thomas Waite.</item>
+                  <item>Robert Lilburn.</item>
+                  <item>Gilbert Millington.</item>
+                  <item>Vincent Potter.</item>
+                  <item>Thomas Wogan.</item>
+                  <item>Iohn Downes.</item>
+               </list>
+            </div>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:51373:1"/>
+            <p>THE TRAYTORS Perſpective-glaſs. OR, Sundry Examples of Gods juſt judgments executed upon many Eminent Re<g ref="char:EOLhyphen"/>gicides, who were either Fomentors of the late Bloody Wars againſt the King, or had a hand in His Death.</p>
+            <p>Whereunto is added Three Perfect Chara<g ref="char:EOLhyphen"/>cters of thoſe late-executed Regicides, <hi>Viz.</hi> OKEY, CORBET, and BARKSTEAD.</p>
+            <p>Wherein many Remarkable Paſſages of their ſeveral lives, and barbarous actions, from the beginning of the late Wars, to the Death of that bleſſed Martyr <hi>CHARLES</hi> the firſt.</p>
+            <p>Are faithfully delineated by <hi>I.T.</hi> Gent.</p>
+            <q>
+               <l>— Lex non eſt juſtior ulla</l>
+               <l>Quam necis Artifices, arte perire ſua.</l>
+            </q>
+            <p>LONDON, Printed by <hi>H. B.</hi> for <hi>Phil. Stephens</hi> the younger, at the ſign of the Kings Armes, over againſt the <hi>Middle Temple</hi> in <hi>Fleet-ſtreet,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51373:2"/>
+            <pb n="1" facs="tcp:51373:2"/>
+            <head>THE TRAYTORS Perſpective-Glaſs.</head>
+            <p>WHoſoever ſhall peruſe either Sacred, or Pro<g ref="char:EOLhyphen"/>phane Hiſtories, will ſoon find how juſt God is in his Judgments toward ſuch as have re<g ref="char:EOLhyphen"/>belled againſt their natural Soveraignes, or conſpired their Deaths. <hi>Zimri,</hi> when he found his opportunity, flew his Maſter <hi>Elah;</hi> the ſervants of King <hi>Ammon,</hi> their own Prince; <hi>Phocas,</hi> his Emperor <hi>Mauritius; Artabanus</hi> Captain of the Guard, killed his own King and Maſter <hi>Xerxes; Brutus</hi> and <hi>Caſſius,</hi> murthered <hi>Julius Caeſar; Theſſalus</hi> poyſoned <hi>Alexander:</hi> But the end of all theſe was lamentable; for Heavens Divine Vengeance (at laſt) purſued each of them cloſe at the heels, and not one of them but periſhed miſerably; nay, ſo crying a ſin is murther, that God uſually inflicts upon the mur<g ref="char:EOLhyphen"/>therer a puniſhment anſwerable to the crime committed: According to the Law of Retaliation, or that Divine Rule, <hi>He that ſheddeth mans blood, ſhall have his blood ſhed by man.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Qui ſtruit inſidias aliis ſibi damna dat ipſe.</hi>
+               </l>
+               <l>Who doth for others dig a pit,</l>
+               <l>Oft times himſelf falls into it.</l>
+            </q>
+            <pb n="2" facs="tcp:51373:3"/>
+            <p>Thus it fared with the Egyptians, who having drown<g ref="char:EOLhyphen"/>ed all the male-children of the Iſraelites, were themſelves drowned in the Red-ſea: And the children of <hi>Iſrael,</hi> when they took <hi>Adonibezek,</hi> cut off his thumbs, and his great toes, <hi>Iudg.</hi> 1.6 7. whereupon he ſaid, <hi>Threeſcore and ten Kings having their thumbs, and their great toes cut off, gathered their meat under my table; and now as I have done, ſo God hath requited me.</hi> So when <hi>Perillus</hi> had made his brazen Bull to torment others, <hi>Phalaris</hi> thought it juſt, that himſelf who made it, ſhould firſt taſte of his own invention, and he burned alive in it.</p>
+            <q>
+               <l>— Lex non eſt juſtior ulla,</l>
+               <l>Quam necis artifices arte perire ſua.</l>
+            </q>
+            <p>And when <hi>Egypt</hi> wanted the uſual inundation of <hi>Ni<g ref="char:EOLhyphen"/>lus, Thracius</hi> having told <hi>Buſyr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> that the weath of the gods would be appeaſed by the ſacrificing a ſtrangers blood; the King knowing him to be an Alien, thought it the juſteſt act to offer him up firſt unto the gods:
+<q>
+                  <l>Illi Buſyris fies Iovis hoſtia primus</l>
+                  <l>Inquit, &amp; Aegyptotu dabis hoſpes aquam.</l>
+                  <l>
+                     <hi>Since thou a ſtranger art,</hi> Buſyris <hi>crys,</hi>
+                  </l>
+                  <l>
+                     <hi>We firſt will thee to the gods ſacrifice.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>So we read, that thoſe Lords who firſt called the Moors into <hi>Spain,</hi> to deſtroy their King <hi>Roderick,</hi> were themſelves and their families deſtroyed by the means of thoſe Moors; and the Britains that rejected their juſt and lawful King <hi>Aurelius Ambroſius,</hi> and ſent for the Saxons to aid them againſt him, were not long after driven by the <hi>Saxons</hi> into the Rocky Mountains, where they remain exiled from their own right to this day.</p>
+            <p>But if we caſt our eyes either upon thoſe that were the inſtruments of our late bloody wars, or ſuch as were guilty of ſhedding the precious blood of that bleſſed Martyr <hi>Charls</hi> the firſt, we ſhall find ſuch a ſeries of Gods iuſt
+<pb n="3" facs="tcp:51373:3"/>judgement againſt his enemies, as no Hiſtory of any times, or any Kingdom beſides our own, can parallel the like.</p>
+            <div type="part">
+               <p>
+                  <note place="margin">Gods judge<g ref="char:EOLhyphen"/>ments a<g ref="char:EOLhyphen"/>gainſt the Scots.</note>I Will firſt begin with the Scots in general; for they were the firſt Pomentors and Ringleaders of the late Rebellion, by raifing not onely an Army againſt thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> natural Prince, but by encouraging our Nation to the like, and afterwards in betraying their Soveraign to a Jewiſh faction of bloody Independants and Anabaptiſts, who thirſted after his life: For when the good King upon their deep (but perfidious engagements) thought he might be ſafe with thoſe his own Native Subjects, he re<g ref="char:EOLhyphen"/>ſolved to go unto them; and thereupon diſguiſing him<g ref="char:EOLhyphen"/>ſelf, with a very great hazard of his own perſon, he ad<g ref="char:EOLhyphen"/>ventured to paſs through all difficulties, and to commit himſelf into the hands of thoſe men; who very fai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, but faſly, made merchandize of his Majeſtie, and ſold him to his enemies, at a far deerer rate then the Traytor <hi>Iu<g ref="char:EOLhyphen"/>das</hi> ſold the Saviour of the world, and the King of Kings unto the Jews: And no ſuch wonder neither, for <hi>Iudas</hi> was but an Aſs to <hi>Leſley,</hi> who had been a Pedlar, or Merchant (as Pedlars are termed in that Countrey) be<g ref="char:EOLhyphen"/>fore he became Commander of an Army; and therefore he knew how to ſell his ware better then the other; though his ſin in one reſpect was far worſe, for <hi>Iudas</hi> repented of his treachery and brought back the thirty pieces he had received, and caſt it down with a penitent confeſſion of his fault: But we finde not that either <hi>Leſley,</hi> or any other of theſe Scotiſh Merchants did repent their treache<g ref="char:EOLhyphen"/>ries, con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs their faults, or return one peny of the price they received for their King back again.</p>
+               <p>But never was any Nation more juſtly dealt withal for their perj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ries towards their Soveraign then thoſe perfi<g ref="char:EOLhyphen"/>dious Scots; who having watted againſt their King, Co<g ref="char:EOLhyphen"/>venanted with, and ſold him to the Parliament, God was pleaſed to make the ſame Parliament that invited them to theſe their impieties, to become the inſtruments of
+<pb n="4" facs="tcp:51373:4"/>their puniſhment; and that dear Brother of theirs <hi>Oliver Cromwel,</hi> who not long before made ſpeeches in their commendation, and gratulory orations for that bleſſed union betwixt theſe two Nations, at length proved the chiefeſt Agent (another <hi>Attalus,</hi> called <hi>flagellum Dei</hi>) whom the Lord uſed for the execution of his Fury upon theſe perjured people: Firſt by fire, in burning and lay<g ref="char:EOLhyphen"/>ing waſte their ſtrongeſt Holds: next by the ſword, in cut<g ref="char:EOLhyphen"/>ting off the chiefeſt of their Covenanters; and laſtly, by famine, in reducing thoſe poor captive Souldiers (that were taken after <hi>Dumbar</hi> fight) to ſuch an exegent,<note place="margin">Dunhar <hi>fight,</hi> Anno <hi>1656.</hi> Sep. <hi>3.</hi>
+                  </note> that above three thouſand of them were at <hi>Durham</hi> ſtarved to death, and thoſe who ſurvived were by hunger torced to feed upon the dead bodies of their Countreymen, to preſerve their own lives: And therefore what <hi>Martial</hi> ſaith of the Lyon, which is the Arms of <hi>Scotland,</hi> I may fitly apply to theſe treacherous Scots,
+<q>
+                     <lg>
+                        <l>
+                           <hi>Laeſerat ingrato l<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> perſidus ere Magiſtrum,</hi>
+                        </l>
+                        <l>
+                           <hi>Auſus tarn not as contaminare manus.</hi>
+                        </l>
+                        <l>
+                           <hi>Sed dignas tante perſoluit crimine poenas,</hi>
+                        </l>
+                        <l>
+                           <hi>Et qui non tulerat verb<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>a, tela tulit.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>A treacherous Lyon hurt his Keeper late,</l>
+                        <l>Daring thoſe well known hands to violate;</l>
+                        <l>But for his foul offence he paid full dear,</l>
+                        <l>Inſtead of ſtripes, he felt a killing ſpear.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Thus you ſee that God will not ſuffer any Traytors, or Regecides to go unpuniſhed; as may further appear by that one remarkable example of <hi>Hatto</hi> late Biſhop of <hi>Mentz</hi> in <hi>Germany,</hi> who having betrayed his neer Kinſ<g ref="char:EOLhyphen"/>man <hi>Allebert</hi> Count Palatine of <hi>Franconia</hi> (to whom he had ſworn allegiance) into the Emperors hands, God ſoon after ſuffered this Traytor (as you may finde in the Chro<g ref="char:EOLhyphen"/>nological Collections of <hi>Petreius</hi>) to be carried away by Devils, and to be thrown into a burning pit in Mount <hi>Gebel,</hi> a voyce in the mean time being heard to cry ont in the ayr,
+<pb n="5" facs="tcp:51373:4"/>
+                  <q>Sic peccaudo lues, ſic<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ruendo rues.</q>
+               </p>
+               <p>Thus art thou worthily puniſhed for thy wicked deeds.</p>
+               <p>So heinous are the ſins of Treaſon, and Perjury, and ſo juſt is the Almighty in the ſeverity of his puniſhments for them, that he ſuffers none who are guilty of ſuch hor<g ref="char:EOLhyphen"/>rid deeds, either early, or late to eſcape unpuniſhed.</p>
+               <div type="part">
+                  <p>And fince I am ſpeaking of theſe treacherous Scots; give me leave to give you a ſhort account of the Life,<note place="margin">The Mar<g ref="char:EOLhyphen"/>queſs of <hi>Argſle.</hi>
+                     </note>Actions, and End of that ingrateful, and perfidious Tray<g ref="char:EOLhyphen"/>tor to his King and Countrey, the late Marqueſs of <hi>Ar<g ref="char:EOLhyphen"/>gyle,</hi> whoſe dealings with his Kindred, Friends and Con<g ref="char:EOLhyphen"/>federates, ought to be a warning to all Proteſtants, how they truſt ſuch an Apoſtate Covenanter, whoſe ambition and avarice did ruine the King and Church, together with three flouriſhing Kingdoms, and in the concluſion himſelf. His Father having married a ſecond Wife, and turned Catholick, this his Son obtains, by his Majeſſies favour, the poſſeſſion of his whole eſtate, allowing him a ſmall penſion to live upon: after whoſe death, he outed his brother of his eſtate at <hi>Kyntire,</hi> and afterwards cheated his Siſters of 12000 <abbr>l.</abbr> given them by the laſt Will and Teſtament of their Mother in Law; forcing them all, for want of maintenance, to hazard the loſs of their ſouls, by forſaking that Religion they were ever nurſed up in; and to cloyſter themſeves up in Nunneries beyond the ſeas.</p>
+                  <p>Having thus taken a view of his Religious carriage to<g ref="char:EOLhyphen"/>wards his Parents, Friends and Allies, let us next obſerve his deportment towards his Soveraign; and how he kept the Solemn League and Covenant with his Brethren in <hi>England.</hi>
+                  </p>
+                  <p>It cannot be denied but His Majeſtie did confer many great and Princely favours upon him at his Father in Law the Earl of <hi>Mortons</hi> deſire, making him Lord of <hi>Lorn,</hi> with the additional honor, and title, of Marqueſs, and a
+<pb n="6" facs="tcp:51373:5"/>full penſion well paid him ever fince, together with (not onely an act of Oblivion, but) approbation of all his ty<g ref="char:EOLhyphen"/>ranni at proceedings againſt the <hi>Athel</hi> men, the Earl of <hi>Aireley,</hi> and others.</p>
+                  <p>But his firſt endeavour in requiral of all theſe, and many more Royal favours, undeſervedly heaped upon him, was his ent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing into a conſpiracy with his Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <hi>Lawers</hi> and the Ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l of <hi>Lothian</hi> (who married his Neece, and was once heard to ſay, <hi>That the three Kingdoms would never have peace, ſo long as King</hi> Cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls <hi>his head was on his ſhoulders</hi>) to baniſh <hi>Antrim,</hi> and the <hi>Macdonalds</hi> out of <hi>Ireland;</hi> for which he had a great gift, and three R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s sent him from the Parliament of <hi>England:</hi> Next he projected to joy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> counſel with <hi>Say Pierpoint, Crom<g ref="char:EOLhyphen"/>wel</hi> and others of the Independant Juncto, againſt the Presbyte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ians: doing them that Maſter-piece of good ſer<g ref="char:EOLhyphen"/>vice; firſt under colour of loyalty and friendſhip, to pre<g ref="char:EOLhyphen"/>vail with his Majeſtie to return to the Scots Army then at <hi>Newark, Cromwel</hi> ſubtilly contributing a paſs to his Maieſties g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ides, with a ſlack guard, that he might the more freely eſcape: Secondly, after many loyal ſpeeches for Monarchy, the Kingdom of <hi>Scotlands</hi> intereſt in the perſon of the King, and many publique and private vows and proteſtations, not to abandon his Majeſtie, without his own conſent; Contrary to all which, he and his Con<g ref="char:EOLhyphen"/>federates corrupted the loyalty of that once famous Gen<g ref="char:EOLhyphen"/>tleman, Lieutenant General <hi>David Leſley</hi> (who had deeply ſworn and engaged himſelf to his Majeſtie to con<g ref="char:EOLhyphen"/>vey him ſafely into <hi>Scotland,</hi> or to ſee him peaceably ſet<g ref="char:EOLhyphen"/>tled in his Throne in <hi>England</hi>) ſorcing him (and he pre<g ref="char:EOLhyphen"/>vailing with the Souldiers) to abandon his Majeſtie: and leaving him behind (now little better then an aſſured pri<g ref="char:EOLhyphen"/>ſoner) and the whole power of the ſword i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the hands of his bloody enemies, the Independants and Sectaries, to the ruine and overthrow of the Covenant, and the Pres<g ref="char:EOLhyphen"/>byterian cauſe in the City, and Parliament. Which deſign of his having taken the deſired effect, he preſently by let<g ref="char:EOLhyphen"/>ters encourages the Independant party to proceed in their
+<pb n="7" facs="tcp:51373:5"/>dethroning votes, and accuſarion of his Majeſtie, aſſuring them that no party in <hi>Scotland</hi> ſhould be able to hinder their proceedings: Whereupon they imm-diately im<g ref="char:EOLhyphen"/>priſoned the King, and next erected a High Court of Ju<g ref="char:EOLhyphen"/>ſtice to take away his life, and afterwards publiquely mur<g ref="char:EOLhyphen"/>thered him.</p>
+                  <p>Thus you ſee <hi>Argyle</hi> having overthrown all Laws, ty<g ref="char:EOLhyphen"/>rannized over the lives, liberties, and eſtates of his Coun<g ref="char:EOLhyphen"/>trey men and contrary to his duty and and allegiance, con<g ref="char:EOLhyphen"/>ſpired to extirpate all Monatchial Government, by betray<g ref="char:EOLhyphen"/>ing his natural Prince into the hands of his enemies, and oppoſing all ways of peace to prevent his Majeſties deli<g ref="char:EOLhyphen"/>verance, and the ſettlement of his Kingdoms; (Now thinking himſelf ſecure in his villanies, and having like<g ref="char:EOLhyphen"/>wiſe by treachery gotten the perſon of the Marqueſs of <hi>Montroſs</hi> into his hands, whoſe onely fault was loyalty to his Prince) he cauſed him to be brought with as much ignominy as poſſibly he could deſire to <hi>Edinburgh,</hi> and af<g ref="char:EOLhyphen"/>terwards to be barbarouſly murthered, juſt at ſuch time as his Majeſtie (that now is) was coming into <hi>Scotland;</hi> e<g ref="char:EOLhyphen"/>ven as it were in deſpite to his Soveraign. But God having at length moſt miraculouſly reſtored his Sacred Majeſtie <hi>Charls</hi> the ſecond, to the Royal Throne of his bleſſed Fa<g ref="char:EOLhyphen"/>ther, did alſo put it into his heart to avenge himſelf up<g ref="char:EOLhyphen"/>on this underminer of Princes; inſomuch as this arch Rebel was ſuddenly ſeized upon; then committed cloſe Priſoner to the Tower; in which place he remained till ſuch time as he could be ſhipped away in order to his try<g ref="char:EOLhyphen"/>al at <hi>Edinburgh</hi> in <hi>Scotland;</hi> where he was legally con<g ref="char:EOLhyphen"/>victed of High-Treaſon, and juſtly executed, as he juſtly deſerved it.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Gods judge<g ref="char:EOLhyphen"/>ments a<g ref="char:EOLhyphen"/>gainſt the Iriſh Rebels.</note>Nor did it happen otherwiſe with the Iriſh, then with the beforementioned Scotiſh Rebels; who having palpa<g ref="char:EOLhyphen"/>bly forged ſeveral pretended Commiſſions under his late Majeſties Great-Seal, and thereby raiſed an Army; firſt impudently ſlandred Gods anointed, then openly rebel<g ref="char:EOLhyphen"/>led againſt him, and afterward; fell to butchering of his
+<pb n="8" facs="tcp:51373:6"/>loyal Subjects, women with childe, young infants, aged Matrons, old Fathers, and all others, of what age, ſex or condition ſoever: Inſomuch, that their barbarous inhu<g ref="char:EOLhyphen"/>manity far exceeded all the cruelties of <hi>Phalaris, Buſyris, Dionyſius,</hi> and the reſt of thoſe Heathen Tyrants, or bloody perſecutors of the primitive Chriſtians, whoſe bloody ſlaughters were but merciful puniſhments, compared with their Tragick acts; ſo as they who felt them, could hard<g ref="char:EOLhyphen"/>ly believe ſuch infernal deſtruction could be invented, much leſs executed by any humane Creatures upon earth.</p>
+               <div type="part">
+                  <p>But <hi>exitus acta probat.</hi> Mark what is now become of all theſe Iriſh Traytors? were not the chiefeſt inſtru<g ref="char:EOLhyphen"/>ments of that Rebellion,<note place="margin">Mac-Ma<g ref="char:EOLhyphen"/>hoon.</note> 
+                     <hi>Mac-Quire,</hi> and <hi>mac-Mahoon,</hi> moſt miraculouſly ſeized upon? and (notwithſtanding their ſtrange eſcape ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Tower) how ſtrangely did Gods judgements find them out, cauſing one of their ſervants to be the principal occaſion of their diſcovery; for which they were ſhortly after brought to condign puuiſhment, and condemned to be hang'd, drawn, and quartered at <hi>Tyburn,</hi> which was accordingly executed.</p>
+                  <p>As for the reſt of them (together with their wives and children) were they not either killed baniſhed, or en<g ref="char:EOLhyphen"/>ſlaved; and ſuch as remained alive, requited by <hi>Cromwel</hi> with the like inhumanity, after the ſtorming of <hi>Drogedah,</hi> where above three thouſand of them were in cool blood maſſacred by the lemnian hands of that unmerciful Ty<g ref="char:EOLhyphen"/>rant.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>Next for that long Parliament here in <hi>England,</hi>
+                  <note place="margin">The Eng<g ref="char:EOLhyphen"/>liſh Re<g ref="char:EOLhyphen"/>bellion in the long Parlia<g ref="char:EOLhyphen"/>ment.</note> which firſt raiſed up a Rebellious Army againſt their King, and at laſt a High Court of Juſtice to take away his life: Did not God ſtir up their own General, <hi>Oliver Cromwel,</hi> a Philiſtine, amongſt theſe Philiſtines; and a grand Re<g ref="char:EOLhyphen"/>bel, amongſt theſe Rebels; who finding his opportunity, wiſely broke in pieces this Brazen Engin, and with a Hero<g ref="char:EOLhyphen"/>like courage, diſſolved that knot, and ſcattered thoſe
+<pb n="9" facs="tcp:51373:6"/>grand Proditors of their King and Countrey; as the Lord diſperſed the Jews that were the murderers of his Son (and their own King) over all the parts of this Kingdom. The whole maſs of that long Parliament (who thought to remain as Kings for ever) being ſcattered like chaff with the wind, from the face of the earth; and now made <hi>ludibrium, opprobrium<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vulgi,</hi> the mock-game, and laughter of this Nation.</p>
+               <p>But I muſt now deſcend from generals to particulars, and ſhew you the juſt judgement of God upon the diſ<g ref="char:EOLhyphen"/>membred parts of this great body, and their adherents, as I finde them worthy of obſervation.</p>
+               <div type="part">
+                  <p>I will therefore begin with him,<note place="margin">Earl of <hi>Eſſex.</hi>
+                     </note> who was the beginner of our troubles (the firſt diſturber of our peace, and the General of that late unhappy War) the Earl of <hi>Eſſex;</hi> with whom though the character given by <hi>Plutarch</hi> of <hi>Dionyſius</hi> King of <hi>Sicily,</hi> may well agree, that he was a Tyrant, begotten of Tyrants; as the other was a Traytor, begot of a Traytor; yet I cannot but ſay of him, that he was <hi>pius inimicus,</hi> a noble Adverſary to the King, who confirmed the reſtauration of him to thoſe Lands and Honors which were taken from him by Queen <hi>Elizabeth,</hi> for the Treaſon of his Father; and the late King made him one of his privy Council, and Chamberlain of his Houſhold, which for honor is one of the beſt Offices at Court, and worth 2000 <hi>
+                        <abbr>l.</abbr> per annum,</hi> and conferred many other favours upon him; yet for no other cauſe (as is conceived) then ambition of popular praiſe; or as others think, for a ſecret grudge he bore to his Majeſtie, for giving way to his Ladies being divorced from him he undertook, when all others refuſed it, the Conduct of a Rebellious Army againſt him; for which act, God never ſuffered him after to proſper in his attempts; witneſs his firſt fight at <hi>Edge-hil,</hi> where he was routed, and forced to hide his head in the day of Battel; and the next day diſhonorably to retreat to <hi>Warwick</hi> Caſtle; and after<g ref="char:EOLhyphen"/>wards in <hi>Cornwal,</hi> he was compelled ſhamefully to aban<g ref="char:EOLhyphen"/>don
+<pb n="10" facs="tcp:51373:7"/>his whole Army, and glad to fly away by Sea to <hi>London:</hi> For which diſaſters, the Parliament, who ſo ſolemnly ſwore before to live and dye with him, do now vote a diſpenſation of that Oath, and not without ſome diſgrace, diſrobing him of his Excellency, and another General is choſen in his room: At length, to prevent any mutiny, or diſcontent that might happen in him, or the Army, by means of this affront put upon ſo noble and popular a perſon, it is generally reported by all that ſee him dye, that they applied more violent phyſick, then ei<g ref="char:EOLhyphen"/>ther the quality of his diſeaſe, or conſtitution of his body would admit of; in giving him a Spaniſh fig, or ſome Aco<g ref="char:EOLhyphen"/>nites, that wrought ſo ſtrongly upon him, that it ſoon brought his head into the grave; his body, ſo ſoon as he was dead, being covered over with turfs of green earth, to prevent the ſwelling of the poyſon that was in him. Thus was he rewarded for his good ſervices to the Parliament, and ill offices againſt his King; God in juſtice ſuffering the ſame people that magnified him, to deſtroy him.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Sr. <hi>John Hotham</hi> &amp; his Son.</note>The next perſons I ſhall inſtance in, are Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham,</hi> and his Son with him; whom I ſhall put toge<g ref="char:EOLhyphen"/>ther, becauſe both were guilty of the ſame crime of diſ<g ref="char:EOLhyphen"/>loyalty to their King, and equally taſted of the ſame ſauce, and ſuffered the like puniſhment. This man was the firſt who ſo inſolently durſt preſume to enter into <hi>Hull</hi> (his Majeſties own proper Town) and there to ſeize upon the Kings Magazine; and when his Majeſtie came in perſon, and requeſted admiſſion into the ſame, he very undutifully (to ſay no worſe) with much ſcorn and con<g ref="char:EOLhyphen"/>tempt, refuſed to let him in.</p>
+                  <p>But how God approved of theſe their unjuſt doings, you may gueſs by the ſubſequent puniſhment, which both the Father and his Son have ſince undergone; for they having firſt moſt diſloyally plaid their parts in the Houſe of Commons againſt the King; and next more egregiouſly, by ſeizing upon <hi>Hull,</hi> theſe falſe Traytors,
+<pb n="11" facs="tcp:51373:7"/>greedy of a reward promiſed by ſome of the Kings friends, reſolved within a ſhort while after, to play the like game with the Parliament; and to comply with his Majeſtie, by redelivering up the Town and Magazine to his uſe; but their plot being diſcovered, and their perſons cunning<g ref="char:EOLhyphen"/>ly ſecured in their hands; they wrought upon the Son (in hopes to get pardon for himſelf) to accuſe, and betray his Father; and then with the like ſubtilty, and for the like hope, they brought the Father to accuſe his Son. So both by mutual treachery being found guilty, and con<g ref="char:EOLhyphen"/>demned, had both their heads ſevered from their bodies in one day, as the juſt reward of their former wickedneſs; God now rendring to them, what before they had ſo well deſerved, by ſuffering them willingly, and wickedly to be the Authors, and Inſtruments, of each others puniſh<g ref="char:EOLhyphen"/>ment.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">The Lord <hi>Brooks.</hi>
+                     </note>The next Member of the long Parliament, that I ſhall ſet down in this liſt of Diſloyal Subjects, is the Lord <hi>Brooks;</hi> a man, while he lived beyond the Seas, much de<g ref="char:EOLhyphen"/>bauched, and very looſe in his life and converſation; as by ſeveral letters ſent from thence to his Uncle Sir <hi>Fulk Grevil</hi> (afterwards Lord <hi>Brooks</hi>) may appear; And how he paſſed from one extreme to another; from a very diſ<g ref="char:EOLhyphen"/>ſolute youth, to a moſt reſolute Saint, I know not; one<g ref="char:EOLhyphen"/>ly theſe things were obſerved to be remarkable in him, that he was a very obſtinate and violent oppoſer of the King (who was <hi>Pater Patriae,</hi> and a very gracious Prince ro him) an extreme hater, and perſecutor of the Reve<g ref="char:EOLhyphen"/>rend Biſhops, and all the Grave, and Learned Clergy; a great demoliſher of Cathedrals; and ſo great an ene<g ref="char:EOLhyphen"/>my to that excellent Prayer in our Letany, <hi>That it would pleaſe God to deliver us from ſudden death,</hi> that he moved the Houſe to aboliſh the whole Liturgy; alledging every man ought to be at all times ſo prepared for death, as they need not at any time pray againſt ſudden death.</p>
+                  <p>But here behold and adore the judgement of the juſt God; how that as <hi>Goliahs</hi> head was cut off with his own
+<pb n="12" facs="tcp:51373:8"/>ſword, ſo <hi>judicium ſuum, ſuper caput ſuum,</hi> this Lords judgement, and practice fell upon his own head; for in his proſecution of his hate againſt his King (as a juſt reward for his Rebellion) his Lordſhip being in <hi>Litchfield</hi> on St. <hi>Chad's</hi> day (the Founder of that Church) whileſt at a lit<g ref="char:EOLhyphen"/>tle window he viewed the Colledge (or Cloſe, as they term it, to the Church of S. <hi>Chad,</hi> ro batter them down with his Canons,) being harneſſed cap-a-pe, from top to toe; as he lifted up his helmet to ſee the ſame more clearly, God directed the hand of a dumb youth, that was a Prebends Son, with a ſhot from a fowling peice, to hit him juſt in the eye; inſomuch as he fell down ſud<g ref="char:EOLhyphen"/>denly dead, without ſpeaking one word; no, not ſo much as <hi>Lord have mercy upon him.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">
+                        <hi>Mr.</hi> John Pym.</note>The next I ſhall bring upon the ſtage, is Mr. <hi>Iohn Pym;</hi> a man preferred to a great Office of truſt, and of much gain, under the King: But ſo ſoon as he became a Mem<g ref="char:EOLhyphen"/>ber of the Long Parliament, he proved ſo active in tra<g ref="char:EOLhyphen"/>ducing the King, that he was the principal of thoſe five againſt whom his Majeſtie demanded juſtice; a man ſo bitter, and invective in his malice towards the Earl of <hi>Strafford;</hi> that knowing how much he was beloved of the King, and that whatſoever evil could be conceived againſt him, would reflect upon His Majeſtie; he firſt with invective Orations, poyſoned the greater part of the Houſe, and the ſeditious vulgar, with a conceit againſt the good King his Maſter; then never left profecuting the Earl, till he had brought his head to the block. And now finding how <hi>Scelera ſceleratioribus tuenda,</hi> that great crimes committed, cannot be ſafe, but by attempting greater; he ſecretly complies with the Scots, to raiſe an Army to aſſiſt him, and the reſt of his ſeditious Compeers, againſt his Majeſtie: But the King having full intelligence both of his own, and his Partners practices againſt him, laboured to bring them to a legal tryal; whereupon to ſave themſelves, they take Sanctuary in the City; and in ſhort ſpace ſo corrupted the Citizens,
+<pb n="13" facs="tcp:51373:8"/>that they firſt drew them (and afterwards the whole Kingdom) to engage themſelves in a deſperate Civil War againſt their lawful Soveraign.</p>
+                  <p>But though his Majeſties hand was then too weak to fetch him out of his guarded palace, to condign puniſh<g ref="char:EOLhyphen"/>ment; yet the hand of the Almighty, (who is the Lord of Hoſts,) as he raiſed up a great Army, though com<g ref="char:EOLhyphen"/>poſed of little Creatures, Rats and Mice, who devoured <hi>Pepiel</hi> the ſecond, King of <hi>Poland, Anno</hi> 830. for trea<g ref="char:EOLhyphen"/>cherouſly poyſoning of his Uncles, and thoſe worms that deſtroyed <hi>Herod</hi> the King; ſo he cauſed infinite ſwarms of Lice to ſeize upon this ſtrong Rebel, who eat him up alive, that he might do no further miſchief againſt his Anointed.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Hamden.</note>The like judgement fell upon Colonel <hi>Hamden;</hi> who for his diſloyalty to his King, was ſhot to death upon the ſame plot of ground where he firſt muſtered his Souldiers againſt the King.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Alderman <hi>Hoyle.</hi>
+                     </note>As alſo upon <hi>Thomas Hoil,</hi> late Major of <hi>York,</hi> and a Member of the long Parliament; a bitter enemy againſt his Prince, and one who had a great hand in his death; for which <hi>Cromwel</hi> cauſed him to be rewarded with Sir <hi>Peter Osborns</hi> place, <hi>viz.</hi> Treaſurers Remembrancer in the Exchequer, valued at 1300 <hi>
+                        <abbr>l.</abbr> per annum;</hi> who on that day twelve moneths that the King loſt his life, made a Bonfire for joy he was beheaded; but on the ſame day twelve moneths after, miſerably hanged him<g ref="char:EOLhyphen"/>ſelf.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Oliver Cromwel.</note>But I muſt not here forget the Arch-Machiavilian Rebel, and prodigious Monſter of men, <hi>Oliver Cromwel;</hi> who adding ſtrength to the wings of his ambition, ſoared an Eagles height; and ſtriving by a graſp of the Scepter to enoble his Name, and Family to poſterity, reſolved to put on the purple Robes of Majeſtie, though deep-dy'd in the blood of his Soveraign, to whom he had ſworn al<g ref="char:EOLhyphen"/>legiance,
+<pb n="14" facs="tcp:51373:9"/>and ſtood engaged (by many ſolemn oathes, and horrid execrations upon himſelf and his Family) to pre<g ref="char:EOLhyphen"/>ſerve, and re-ſettle in his Throne: Nevertheleſs, con<g ref="char:EOLhyphen"/>trary to all his former proteſtations and promiſes, he trea<g ref="char:EOLhyphen"/>cherouſly cauſed the King to be kept cloſe Priſoner in <hi>Carisbrook</hi> Caſtle; where he plotted with <hi>Rolf</hi> to have him ſecretly made away, though afterwards he was pub<g ref="char:EOLhyphen"/>liquely murthered: And that he might palliate the breach of his Faith, Vows, and Allegiance to his Soveraign, he by a printed Declaration, makes God the Author of his wickedneſs, affirming, he could not reſiſt the motions of the Spirit, which would not ſuffer him to keep his word with the King, or let his Conſcience reſt quiet, till he had taken away hife life: Thus,
+<q>Sua cui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Deus fit dira libido.</q>
+               </p>
+               <p>This Hob-goblin ſerves all turns; and <hi>Oliver</hi> was ſo perfect a Juggler, that he had got the right knack of Pulpit canting; ſo as it is was eaſie for him, under this mask of Religion (that old ſtalking-horſe of Rebel<g ref="char:EOLhyphen"/>lion) by deceiving the ignorant ſort of people, up to exalt himſelf up to the uſurped Throne of his Mar<g ref="char:EOLhyphen"/>tyred Prince: Into which he was no ſooner entered, but this <hi>Ioſhua</hi> of the Saints, was prayed for in every Con<g ref="char:EOLhyphen"/>venticle, and a day of general Thanksgiving for his en<g ref="char:EOLhyphen"/>ſtallment appointed to God (I think) for his patience in not ſtriking this Atheiſtical Tyrant with Thunder and Lightning, for making him a ſtale to his premeditated villanies.</p>
+               <p>But God permitted not this Son of <hi>Belial</hi> to raign long in his cruelties, but ſpeedily cut him off, by a miſerable, and tormenting ſickneſs; which cauſed him two days be<g ref="char:EOLhyphen"/>fore his death to roar ſo loud, and make ſuch doleful cla<g ref="char:EOLhyphen"/>mors, that his Council being informed, that many per<g ref="char:EOLhyphen"/>ſons as they paſſed by his chamber window, took much notice of his crys, thought fit to have him removed from the place where he then lay, to one more private; where
+<pb n="15" facs="tcp:51373:9"/>with extremity of anguiſh, and terror of Conſcieence having his ſoul at the parting from his body (accompani<g ref="char:EOLhyphen"/>ed with ſuch a helliſh tempeſt, as was by all men judged to be prodigious,) he finiſhed his miſerable life; for he dyed mad, and diſpairing, as the Author of the fourth part of the Hiſtory of Independency affirms: Out of whom give me leave to inſert this remarkable paſſage, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>That it was believed, and not without ſome good cauſe, that</hi> Cromwel <hi>the ſame morning he defeated the Kings Army at</hi> Worceſter <hi>fight, had conference perſonally with the Devil, with whom he made a Contract, that to have his will then, and in all things elſe for ſeven years after from that time</hi> (<hi>being the third of</hi> September, 1651.) <hi>he ſhould at the expiration of the ſaid years, have him at his command, to do at his pleaſure, both with his ſoul, and body:</hi> Now if any one will pleaſe to reckon from the third of <hi>September,</hi> 1651. till the third of <hi>September,</hi> 1658. he will finde it to a day juſt ſeven years, and no more:<note place="margin">
+                     <hi>Richard</hi> Protector.</note> At which time he dyed, declaring his eldeſt Son <hi>Richard</hi> his Succeſſor, his Son <hi>Henry</hi> Lord Lieutenant of <hi>Ireland,</hi> and leaving his Daughter <hi>Fleetwood</hi> married to the Com<g ref="char:EOLhyphen"/>mander in chief of the Army under himſelf.</p>
+               <p>This was the end of our Engliſh <hi>Nero:</hi> A perſon of an unlimitted ambition, and reſtleſs ſpirit; of whom I have heard it credibly reported, by ſuch as attended upon him in his bed-chamber, that after he had em<g ref="char:EOLhyphen"/>brewed his hands in the blood of his Soveraign, he was obſerved to ſleep ſo little, that he ſcarce took any repoſe; but oft in the night time would ariſe out of his bed, take a piſtol into his hand, and call to his guard to watch his door, and have a care of ſleeping.</p>
+               <p>Nor was his guilty conſcience leſs terrified in the day time, then in the night; as appears by the teſtimony of Sir <hi>Theophilus Iones;</hi> who waiting upon him one morning in his Chamber, the wind on a ſudden blowing up the hangings before the door, poſſeſſed him with ſuch a Pa<g ref="char:EOLhyphen"/>nick fear, that he cryed out Traytors! Traytors! and
+<pb n="16" facs="tcp:51373:10"/>drawing out his ſword, could not be perſwaded to diſperſer his fears, or put up his weapon, till the wind playing the ſame game again, convinced him of his error.</p>
+               <p>The like ſtory I find written by <hi>Polidore Virgil,</hi> of <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> the third; who having cauſed his two Nephews to be ſecretly murthered, he could never after (whileſt he lived) enjoy any quiet in his mind, but would be ſtill ſtarting, and clapping his hand upon his dagger. Thus do to mented Conſciences continually carry a Hell about them; as <hi>Lucan</hi> ſaith the wicked man doth.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Nocte dieq, ſuum geſtare in pectore teſtem,</hi>
+                     </l>
+                     <l>
+                        <hi>Hunc omnes gladii, quos aut Pharſalia vidit</hi>
+                     </l>
+                     <l>
+                        <hi>Aut ultrix viſura dies ſtringente Senatu,</hi>
+                     </l>
+                     <l>
+                        <hi>Illa nocte premiunt, hunc infera monſtra flagellant.</hi>
+                     </l>
+                  </lg>
+                  <p>Engliſhed thus,</p>
+                  <lg>
+                     <l>The murtherer nor night, nor day can reſt,</l>
+                     <l>But bears about a witneſs in his breſt:</l>
+                     <l>He fancies all he ſees are Lictors ſent,</l>
+                     <l>To bring him to deſerved puniſhment.</l>
+                     <l>Furies raign in his ſoul —</l>
+                  </lg>
+               </q>
+               <p>And <hi>Pictorius</hi> in his Epigram upon the ſame ſubject, ſaith,
+<q>
+                     <lg>
+                        <l>
+                           <hi>Illud habet damni vitium inter coetera, quod mens</hi>
+                        </l>
+                        <l>
+                           <hi>Palpitat aſſiduo flagitioſa mecu.</hi>
+                        </l>
+                        <l>
+                           <hi>Semper enim ſi non deprehendatur in ipſo</hi>
+                        </l>
+                        <l>
+                           <hi>Seſe deprendi poſſe put at ſcelere.</hi>
+                        </l>
+                        <l>
+                           <hi>De<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> ſuo quoties alterius do crimine ſermo eſt</hi>
+                        </l>
+                        <l>
+                           <hi>Cogitat, &amp; credit ſe magis eſſe reum;</hi>
+                        </l>
+                        <l>
+                           <hi>In<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> dies timor hic creſcit—</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The wicked man this Fate attends, that he</l>
+                        <l>Is never from purſuing torments free;</l>
+                        <l>He dreams he's taken, though he waking find</l>
+                        <l>Himſelf deceiv'd, fear ſtill torments his mind.</l>
+                        <pb n="17" facs="tcp:51373:10"/>
+                        <l>If any talk of others crimes ariſe,</l>
+                        <l>His guilty Conſcience in his face ſtreight flyes.</l>
+                        <l>Each day begets new tortures—</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>But 'tis time to leave him off, and return to his Chil<g ref="char:EOLhyphen"/>dren, who have alſo drank deep of the bitter Cup of Affliction, for their Fathers perjuries, according to that of the Poet:
+<q>
+                     <l>
+                        <hi>In prolem dilatarunt perjuria patris.</hi>
+                     </l>
+                     <l>The Child often ſuffers for his Parents crimes.</l>
+                  </q>
+               </p>
+               <div type="part">
+                  <p>
+                     <note place="margin">
+                        <hi>Richard</hi> Protector.</note>For although before his death, <hi>Oliver</hi> ſtrived to entail his tyrannical power, as well in <hi>England</hi> as <hi>Ireland,</hi> up<g ref="char:EOLhyphen"/>on his Son <hi>Richard,</hi> and <hi>Harry:</hi> yet God ſoon caſt them both out, by ſtirring up their Brother in Law <hi>Fleetwood,</hi> and their near kinſman <hi>Disborough</hi> to effect it. So as this Pageant of Honour continued few Moneths in his Protectorſhip, before he was reduced to ſuch extremity (being indebted in 290000 <abbr>l.</abbr> for his Fathers Funeral) that at the ſitting of the Rump Parliament, he who lately was ſtiled the Nations Protector, is now neceſſitated to let his Highneſs ſtoop ſo low, as to beg their prote<g ref="char:EOLhyphen"/>ction to preſerve himſelf from rotting in a Priſon. Thus vaniſhed this <hi>magni nominis umbra,</hi> the ſhadow and Puppet-play of a Protector.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Henry Cromwel.</note>Nor did it fare better with his Brother <hi>Harry,</hi> who having the Government and ſtrength of <hi>Ireland</hi> in his power, and a conſiderable Army ready to hazard their lives in his ſervice, might in all probability have reſetled his Brother again, or at leaſt have made himſelf great in the Kings favour, had he adhered to his intereſt; but God ſtruck ſuch a terrour into his Soul, as he had not courage enough left to be an Inſtrument of good either to his Countrey, or P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ince; b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t this pittiful cowardly Imp, tamely ſurrendred up all his power into the R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mps hands; whereupon he was ordered to return ſpeedily
+<pb n="18" facs="tcp:51373:11"/>into <hi>England,</hi> to attend the pleaſure of the Houſe, where (after a tedious waiting upon them at the Commons Bar) at length he was for his good ſervice ſtroaked on the head, called a good Boy, and diſmiſſed; for which kindneſs, he buſſed his hand, made a leg, and <hi>Exit.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">The Lady <hi>Claypool.</hi>
+                     </note>Next for <hi>Cromwels</hi> Daughters; the ſtrange end of his Darling Child, Mrs. <hi>Claypool</hi> is very remarkable: For finding her Father violently bent in proſecuting the Death of that Learned and Pious Divine Dr. <hi>Hewitt,</hi> her Conſcience was ſo extreamly troubled at his cruelty that ſhe both night and day ſollicited him by prayers and ſupplications, to ſpare the life of that innocent perſon; But he (who never before denied any thing ſhe requeſted of him) is now grown inexorable; and like the Deaf Adder ſtops his Ears againſt the charmings of this ſweet Charmer: at which unheard of inhumanity, ſhe took ſuch exceſſive grief, that ſhe ſuddenly fell ſick; the increaſe of her ſickneſs making her rave in a moſt lamentable manner, calling out againſt her Father for <hi>Hewitts</hi> blood; and then telling him, that God now laid his heavy pu<g ref="char:EOLhyphen"/>niſhments upon her for his hainous crimes, ſhe deſired him to repent, and pray for her, till at length theſe vio<g ref="char:EOLhyphen"/>lent extravagant paſſions, working upon the great weak<g ref="char:EOLhyphen"/>neſs of her body, carried her Soul into another World, where (doubtleſs, if we ballance her Chriſtian-like pe<g ref="char:EOLhyphen"/>nitency againſt parents impiety,) we ought charitably to judge, that her Soul enjoyes the felicity of Heaven, whatſoever is become of her Fathers.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">The Lady <hi>Francis.</hi>
+                     </note>As for another Daughter of his, though he ſought to ſtrengthen himſelf at home by intermixing her blood in marriage with that of the heir apparent of the Earldome of <hi>Warwick,</hi> yet ſoon after ſuch an antipathy happened between their affections, that he hated her perfectly; and at laft by the ſuddenneſs of his death, left his wife the widow of a loathed bed.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>I could ſay much of <hi>Bradſhaw,</hi>
+                  <note place="margin">Bradſhaw.</note> that notorious Regi<g ref="char:EOLhyphen"/>cide; who being terrified at the turning out of <hi>Richard</hi>
+                  <pb n="19" facs="tcp:51373:11"/>the Protector, the riſing of Sr. <hi>George Booth,</hi> and the mutining of the City againſt the Army, began to ſuſpect he ſhould ſoon be called to account for his villanies, in<g ref="char:EOLhyphen"/>ſomuch as he quickly haſtened his paſſage into another world, to prevent his puniſhment in this. Neverthe<g ref="char:EOLhyphen"/>leſs, God did not long ſuffer the ſtinking carcaſs of this bloody Monſter to reſt in the grave, but being thence ta<g ref="char:EOLhyphen"/>ken out, together with the bodies of his Maſter <hi>Cromwel,</hi> and <hi>Ireton,</hi> they all were drawn, hanged, and buried at <hi>Tyburn,</hi> a fit Tombe for ſuch egregious Rebels: but their heads were by the Hang-man cut off, and ſet upon <hi>Weſtminſter-Hall,</hi> over the ſame place where they ere<g ref="char:EOLhyphen"/>cted their High Court of Juſtice, and ſate in Judgement againſt His Majeſty.</p>
+            </div>
+            <div type="part">
+               <head>Nor are thoſe memorable Examples of Gods Iudgements againſt Col. <hi>Dean, Rainsborough, Reynolds, White, Doriſlaus, Askam, Milton Bond, Marſhall,</hi> and <hi>Love,</hi> leſs eminent than the former.</head>
+               <div type="part">
+                  <p>
+                     <note place="margin">Dean.</note>FOR Col. <hi>Richard Dean</hi> being made one the thoſe Judges, who actually did ſit upon the Tryal of His Majeſty, was ſo vigorous in the proſecution of his Death, that he complained to the Army of their delayes, and a<g ref="char:EOLhyphen"/>gainſt <hi>Bradſhaw,</hi> for not condemning him without permit<g ref="char:EOLhyphen"/>ting him to ſpeak; and was one of the four perſons to conſider of the time and place for the Kings Execution. But God requited him with a puniſhment anſwerable to his own dealings; for he who ſo lately preſſed the Soul<g ref="char:EOLhyphen"/>diers to cut off their Soveraigns Head, had ſoon after his own ſhot clear off from his body by a Chain-bullet, in the laſt Naval fight between the <hi>Engliſh</hi> and the <hi>Flem<g ref="char:EOLhyphen"/>mings.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Rainsbo<g ref="char:EOLhyphen"/>borough.</note>HOW ſtrangly was (that <hi>Quondam Neptune</hi> of the Seas, and Governour of <hi>Pomfrett</hi> Caſtle) Col. <hi>Rainsborough</hi> ſtabbed in his own Quarters by unknown perſons, in a ſtrong guarded Garriſon, and before the face of ſome of his own Souldiers, who having then
+<pb n="20" facs="tcp:51373:12"/>neither ſtrength to preſerve his life, nor power to ſeize on the actors; after the deed done, they boldly paſſed by the Guard, and eſcaped. This was he who was im<g ref="char:EOLhyphen"/>ployed by the Committee of <hi>Derby</hi> houſe to ſollicit the Common ſort of Marriners, (to whom he gave 12 <abbr>d.</abbr> a piece) to ſubſcribe, and preſent a Petition to the houſe of Commons for Juſtice againſt the King, wherein they offered to live and dye with the Parliament, &amp;c. For which trayterous act againſt his Prince, Heaven was likewiſe pleaſed by a ſudden and violent death to de<g ref="char:EOLhyphen"/>ſtroy him. And without doubt there was <hi>Digitus Dei,</hi> the finger of the Almighty in this action, otherwiſe it had been impoſſible for ſuch a bloody Tragedy to be acted (even at noon day) in ſuch a wel-fortified place, and upon ſo eminent a Rebel as this was, without the ap<g ref="char:EOLhyphen"/>prehenſion of thoſe perſons who committed the deed.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Reynolds <hi>and</hi> White</note>THE next in this Catalogue of Traytors, are Col. <hi>Iohn Reynolds</hi> Commander in Chief at <hi>Mardike,</hi> and Col. <hi>White,</hi> two of <hi>Cromwels</hi> beſt beloved Beagles for Hunting after His Majeſties blood: who embarking themſelves at <hi>Mardike</hi> for <hi>England,</hi> to conſult with their Maſter <hi>Oliver</hi> about Martial affairs, were by a ſudden Tempeſt caſt away upon the <hi>Goodwin</hi> ſands, a place no<g ref="char:EOLhyphen"/>torious for the Hiſtory of that perjured Earl <hi>Goodwin,</hi> who being treacherous to his Prince, had all his eſtate and manners together with himſelf and family, (as theſe traytors were for the like fact) ſwallowed up in the ſame place by the Sea.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">
+                        <hi>Dr.</hi> Dori<g ref="char:EOLhyphen"/>ſlaus.</note>AS for Dr. <hi>Doriſlaus,</hi> a Saint of <hi>Cromwels</hi> Rubrick, who was formerly a poor School-maſter in the Low-Countreys, but by his late Majeſties favour tranſla<g ref="char:EOLhyphen"/>ted from thence to read the Hiſtory Lecture in <hi>Oxford.</hi> Where he decrying Monarchy in one of his Lectures; was complained of, yet forgiven by the benignity of the King. Then he became Judge Advocate in his Army, againſt the Scots; afterwards he forſook his Maſter, and took
+<pb n="21" facs="tcp:51373:12"/>the like imployment under the Earl of <hi>Eſſex,</hi> and next under Sr. <hi>Thomas Fairfax,</hi> and at laſt was ordered to be one of thoſe Counſellors who were to aſſiſt the High Court of Juſtice, and draw up the Charge againſt the King; but God juſtly puniſhed this ingrateful Regicide within four Moneths after, by ſuffering him to be ſtab<g ref="char:EOLhyphen"/>bed to death (whilſt he was then Agent for the Parlia<g ref="char:EOLhyphen"/>ment in <hi>Holland</hi>) where about 18 Scotch-men repairing to his Lodging, ſix of them went up the Stairs to his Chamber, whilſt the other twelve guarded the Stair-foot; whom Heaven ſent to revenge the Sacred Blood of His Majeſty, and thoſe four Lords, <hi>viz. Capel, Goring, Holland,</hi> and <hi>Hamilton,</hi> whom he had unjuſtly before condemned to death.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">
+                        <hi>Mr.</hi> Antho<g ref="char:EOLhyphen"/>dy Askam.</note>THE like Judgement befel Mr. <hi>Anthony Askam,</hi> ano<g ref="char:EOLhyphen"/>ther of the Long Parliaments Creatures, and an active perſon againſt his Soveraign, who being ſent in the quality of an Agent into <hi>Spain,</hi> arrived at the Port of <hi>Sancta Maria, Iunij</hi> 5. 1650. where notwithſtanding he was forwarned of the Danger he was in, and guarded from thence to <hi>Madrid;</hi> yet could he not eſcape the hand of Divine vengeance upon him, for the next day af<g ref="char:EOLhyphen"/>ter he came at <hi>Madrid;</hi> as he was at dinner, ſix men knocked at his Chamber-door, which was immediatly opened unto them, and he riſing from the Table to re<g ref="char:EOLhyphen"/>ceive them, was ſtabbed in the head with a Dagger, ſo that he fell down ſuddenly dead upon the ground, toge<g ref="char:EOLhyphen"/>ther with his Interpreter, who was likewiſe ſtabbed in the belly; they who committed the fact eſcaping to a Sanctuary, where they were by the Clergy of <hi>Spain</hi> pro<g ref="char:EOLhyphen"/>tected againſt the rigour of the Law, and not one of them puniſhed.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">
+                        <hi>Mr.</hi> John Milton.</note>LIkewiſe how wonderfully was Mr. <hi>Iohn Milton,</hi> who writ the ſeditious Antimonarchical Book againſt the King, in anſwer to Learned <hi>Salmaſius,</hi> ſtrucken blind ſoon after, and could never ſince by any art, or skill, either
+<pb n="22" facs="tcp:51373:13"/>recover his ſight, or preſerve his Books from being burned by the hands of the common Hang-man.</p>
+               </div>
+               <div type="part">
+                  <p>NExt obſerve what became of Mr. <hi>Denis Bond,</hi>
+                     <note place="margin">
+                        <hi>Mr</hi> Denis Bond.</note> ano<g ref="char:EOLhyphen"/>ther o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> His Majeſties Judges, and one of <hi>Crom<g ref="char:EOLhyphen"/>wels</hi> Councellors. Was he not in a horrid man<g ref="char:EOLhyphen"/>ner tormented with the Strangury, and much anxiety of ſpi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it before his death? In-ſo-much, as he dying about 14 dayes before his Maſter <hi>Oliver;</hi> ſome unhappy wits raiſed a report about the Town, that the Devil had taken <hi>Bond</hi> or ſecurity, that the Protector ſhould appear before him within a fortnight after, which indeed pro<g ref="char:EOLhyphen"/>ved a prophetick jeſt, for the third of <hi>September</hi> follow<g ref="char:EOLhyphen"/>ing <hi>Oliver</hi> dyed.</p>
+               </div>
+               <div type="part">
+                  <p>I ſhall ſay little of <hi>Love,</hi>
+                     <note place="margin">
+                        <hi>Mr.</hi> Chri<g ref="char:EOLhyphen"/>ſtopher Love.</note> or <hi>Marſhall,</hi> (thoſe two fire<g ref="char:EOLhyphen"/>brands of Rebellion) But this; That as <hi>Love</hi> was by his own Confeſſion the firſt Scholar ever heard of in <hi>Oxford,</hi> that publickly refuſed to ſubſcribe to the Ca<g ref="char:EOLhyphen"/>nons of the Church, for which he was expelled the Congregation houſe: as alſo the firſt Promoter of the Scotch War againſt the King; ſo he proved afterwards the firſt Presbyterian Clergy-man that ſuffered Death in defence of the King, the Covenant, and the Presbyterian cauſe.</p>
+               </div>
+               <div type="part">
+                  <p>NOR was the end of <hi>Marſhall</hi> (that Turn-coat Presbyter) leſs obſervable.<note place="margin">Stephen Marſhall.</note> How active an In<g ref="char:EOLhyphen"/>ſtrument was he for the Army? How invective a Rebel againſt his Prince? But he who had ſo long curſed <hi>Me<g ref="char:EOLhyphen"/>roz,</hi> and (like <hi>Shimei</hi>) reviled his Soveraign, had at length Gods curſe brought upon his own head, for fal<g ref="char:EOLhyphen"/>ling into a deſperate ſickneſs, he dyed mad, and raving.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Rich. Pym.</note>THE next in order is <hi>Richard Pym,</hi> originally a Shoo-maker, afterwards an Inn-keeper living at the <hi>Bull</hi> within <hi>Biſhop gate,</hi> a perſon ſo egregiouſly mali<g ref="char:EOLhyphen"/>tious, that he could not forbear to vent his paſſionate
+<pb n="23" facs="tcp:51373:13"/>treaſon publickly amongſt ſuch gueſts as were dining with him at an Ordinary kept in his houſe, ſaying, that he hoped he ſhould live to ſee the day, when he ſhould waſh his hands in King <hi>Charles</hi>'s blood; which words being taken notice of by one Mr. <hi>Grigory</hi> an Attorney who was preſent, were by him related to ſome Mem<g ref="char:EOLhyphen"/>bers of the Long Parliament; who thereupon cauſed the ſaid <hi>Pym</hi> to be committed a Priſoner to <hi>New-gate:</hi> But ſo prevalent at that time was <hi>Cromwels</hi> power in the houſe, that (being a Favourite of his) he ſpeedily ob<g ref="char:EOLhyphen"/>tained his releaſement without being ever further que<g ref="char:EOLhyphen"/>ſtioned about it. But God would not ſo releaſe him from puniſhment.</p>
+               <p>For in a ſhort while after he viſited his houſe with a violent Peſtilence, which ſuddenly ſwept away his Wife, two Children, and ſuch Servants as remained in it, who all dyed of the Plague; Hereupon the houſe being ſhut up, whether the loſs of his Trade, or the Judgement of God upon him for his ſins, were the occaſion of his fu<g ref="char:EOLhyphen"/>ture deſtruction, I cannot tell, but this I am ſure, that he who before the uttering of thoſe words againſt His Majeſty, was poſſeſſed of a clear eſtate in Land, eſtima<g ref="char:EOLhyphen"/>ted at above 300 <abbr>l.</abbr> 
+                  <hi>per annam;</hi> as alſo a great Trade con<g ref="char:EOLhyphen"/>tinually driving within his houſe, could no longer (not<g ref="char:EOLhyphen"/>withſtanding all his care, and induſtry in the management of his affairs) preſerve his eſtate, or himſelf from con<g ref="char:EOLhyphen"/>ſuming and mouldering away to nothing, inſomuch, as within five year after he became ſo poor and indebted, that he was forced to flye from his houſe, and ſell all his goods, and at laſt to betake himſelf to a Priſon; from whence, though he was afterwards releaſed, yet he pe<g ref="char:EOLhyphen"/>riſhed miſerably.</p>
+            </div>
+            <div type="part">
+               <head>The next knot of Traytors, of whoſe Arraignment, and Condemnation I ſhall onely give you a brief account; were,</head>
+               <p>
+                  <note place="margin">Harriſon <hi>and</hi> Carew</note>FIrſt <hi>Harriſon,</hi> and <hi>Carew,</hi> againſt whom it was pro<g ref="char:EOLhyphen"/>ved that they did often meet, and conſult together,
+<pb n="24" facs="tcp:51373:14"/>with others, how to put the King to Death; that they ſate at the time of the Sentence, and ſigned the War<g ref="char:EOLhyphen"/>rant for the Kings Execution, and were found guilty of compaſſing and imagining his Death, for which they were Condemned to be hang'd, drawn and quartred, which accordingly was done upon <hi>Harriſon</hi> between 9 and 10 of the clock in the morning, <hi>Octob.</hi> 13th. 1660. and the like upon the Monday following to <hi>Carew,</hi> at <hi>Chairing-Croſs,</hi> with their faces looking upon the Ban<g ref="char:EOLhyphen"/>quetting-houſe at <hi>White-Hall,</hi> the fatal place pitched upon by thoſe infernal Regicides, for the ſolemn mur<g ref="char:EOLhyphen"/>ther of our late Soveraign <hi>Charles</hi> the firſt, of glorious memory.</p>
+               <div type="part">
+                  <p>THE next in order was Mr. <hi>Iohn Cook</hi> the Sollicitor,<note place="margin">John Cook</note>
+                     <hi>Hugh Peters,</hi> that Jeſuitical Chaplain to the trayte<g ref="char:EOLhyphen"/>rous High Court; it was proved againſt <hi>Cook,</hi> that he examined Witneſſes againſt the King, drew up his Charge, exhibited it in the name of the Commons of <hi>England;</hi> that the Charge was of High Treaſon; that he complained of delayes; prayed the Charge might be taken <hi>pro confeſſo;</hi> and at laſt that it was not ſo much he, as innocent blood that demanded Juſtice, &amp;c.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Hugh Pe<g ref="char:EOLhyphen"/>urs.</note>THen <hi>Peter</hi> was ſet at the Bar, againſt whom proof was made, that he did at five ſeveral places, <hi>viz.</hi> it <hi>Windſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> at <hi>Ware,</hi> in <hi>Coleman-ſtreet,</hi> in the Pain<g ref="char:EOLhyphen"/>ted Chan ber, and at <hi>Bradſraws</hi> houſe, conſult about the Kings Death; that he compared the King to <hi>Barrabas, and preached to binde their Kings in Chains,</hi> &amp;c. That he called the Day of His Majeſties Tryal a glorious Day, reſembling the judging of the World by the Saints: That he prayed for it in the Painted Chamber; preached for it at <hi>White-Hall,</hi> St. <hi>Iames</hi>'s, St. <hi>Sepulchers,</hi> and other places. Of all which the Jury finding him guilty, toge<g ref="char:EOLhyphen"/>ther with <hi>Cook</hi> of the former Charge. they were both the 16th of <hi>October</hi> Executed at <hi>Chairing-Croſs.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="25" facs="tcp:51373:14"/>
+                  <p>THE next brought to Tryal were <hi>Scot, Clement,</hi>
+                     <note place="margin">Scot, Cle<g ref="char:EOLhyphen"/>ment, Scroop, <hi>&amp;</hi> Jones.</note> 
+                     <hi>Scroop</hi> and <hi>Iones;</hi> againſt <hi>Tho. Scot</hi> it was proved, that he did ſit and conſult about the Kings Death; that he agreed to the Sentence, and ſigned the Warrant, where<g ref="char:EOLhyphen"/>by the King was murthered: that ſince he hath owned the Kings Death, by glorifying in it, defending it, and ſaying, he would have it engraven on his Tomb-ſtone, that all the world might know it; which being aggrava<g ref="char:EOLhyphen"/>tions of his crime, he was ſound guilty by the Jury, and Executed the 17th of <hi>October</hi> following. <hi>Hic exitus, hic vitae finis.</hi> This was the deſerved end of that Great demoliſher of old Cathedrals, and painful deflowerer of young Maiden-heads.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Clement.</note>AFter him <hi>Gregory Clement,</hi> (confeſſing himſelf guil<g ref="char:EOLhyphen"/>ty) was Sentenced and Executed at the ſame place with the former, and on the ſame day.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <note place="margin">Scroop <hi>&amp;</hi> Jones.</note>THen <hi>Scroop</hi> was tryed upon the like Indictment for compaſſing the Kings death; againſt whom it was proved, that he did not onely ſit in the Court, Sentence the King, and ſign the bloody Warrant, but after the coming in of His Majeſty that now is, juſtified the com<g ref="char:EOLhyphen"/>mitting of that deteſtable murther; for which the Jury finding him guilty: As alſo Mr. <hi>Iohn Iones</hi> of the like crimes; the Court gave Sentence of death againſt them as the former, to ſuffer as Traytors and accordingly on <hi>Wedneſday</hi> the 17th of <hi>October</hi> about nine of the clock in the morning. <hi>Thomas Scot</hi> and <hi>Gregory Clement</hi> were brought on ſeveral Hurdles to the Gibbet erected near <hi>Chairing-Croſs,</hi> and were there hanged, bowelled and quartred; and about an hour after <hi>Adrian Scroop</hi> and <hi>Iohn Iones</hi> together in one hurdle were carried to the ſame place, and ſuffered the ſame pains of Death.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Axtel.</note>THeſe being thus diſpatched, and having received the reward of their Treaſon, <hi>Daniel Axtel,</hi> and <hi>Fran<g ref="char:EOLhyphen"/>cis
+<pb n="26" facs="tcp:51373:15"/>Hacker</hi> were brought before the Court, and tryed; againſt <hi>Axtel</hi> it was proved, that when His Majeſty was brought to be tryed at <hi>Weſtminſter-Hall,</hi> he bid his Soul<g ref="char:EOLhyphen"/>diers cry out Juſtice, Juſtice, and Execution, Execution, and bear them till they did it. That he bid ſhoot a La<g ref="char:EOLhyphen"/>dy there for calling <hi>Cromwel</hi> Traytor, and ſaying, that not a quarter of the people of <hi>England</hi> conſented to their wicked Charge. That he ſaid to Col. <hi>Huncks</hi> upon his refuſing to ſign the Warrant againſt the King: I am aſhamed of you, the Ship is now coming into the Har<g ref="char:EOLhyphen"/>bour, and will you ſtrike Sail before we come to Anchor; That he laughted at the Tranſactions, as applauding them, whilſt others ſighed; that after the King was murthe<g ref="char:EOLhyphen"/>red, he kept guards upon the dead body, and knew who cut off the Kings head, having ſent one <hi>Eliſha Axtel</hi> for the Executioner; upon which proof the Jury found him guilty of the ſaid Treaſon whereof he ſtood indi<g ref="char:EOLhyphen"/>cted.</p>
+               <div type="part">
+                  <p>
+                     <note place="margin">Hacker.</note>THen <hi>Francis Hacker</hi> was arraigned; and by diverſe Witneſſes it was ſworn againſt him, that he was Commander of the Halbeteers who kept the King Pri<g ref="char:EOLhyphen"/>ſoner, and would not ſuffer any acceſs to be unto him; that he guarded him to their Mock-Court, and after kept him ſure till he was murthered; that he was one of the perſons to whom the Warrant for the Execution was e<g ref="char:EOLhyphen"/>rected; and that he ſigned it; and brought the King to the fatal Block; and was upon the Scaffold, being a principal Agent about the Kings Death: for which hor<g ref="char:EOLhyphen"/>rid Treaſon the Jury found him guilty. After which, the Court ſentenced both him and <hi>Axtel</hi> to ſuffer death as Traytors; according to which Judgement, they were on <hi>Fryday</hi> the 19th of <hi>October</hi> about nine in the morn<g ref="char:EOLhyphen"/>ing, drawn upon a Hurdle from <hi>Newgate</hi> (the common place of Fxecution) to <hi>Tyburn,</hi> and there hang'd; Mr. <hi>Axtel</hi> was bowelled, and quartred; but the body of <hi>Hacker</hi> by His Majeſties great Grace and Favour, (and at the humble ſuit, and interceſſion of his Friends (was given to them intire, and by them afterwards buried.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:51373:15"/>
+               <p>
+                  <note place="margin">Hulet.</note>THE laſt of this Crew, was <hi>Will. Hulet;</hi> againſt whom it was proved, that he was one of thoſe which came with a frock on his body, and a Vizard on his face to perpetrate the horrid Murder on the Per<g ref="char:EOLhyphen"/>ſon of the King; that being ſo diſguiſed upon the Scaf<g ref="char:EOLhyphen"/>fold, he fell down before the King, and asked him for<g ref="char:EOLhyphen"/>giveneſs, being known by his voice, that himſelf ſaid, that he was the man that beheaded King <hi>Charles:</hi> for which deed he had 100 <abbr>l.</abbr> and preferment. That <hi>Heu<g ref="char:EOLhyphen"/>ſon</hi> ſaid of him, that he did the Kings buſineſs upon the Scaffold. That he either did cut it off, or took it up, and ſaid, Behold the head of a Traytor. That being queſtioned about the ſaid words, he ſaid, Whoſoever ſaid it matters not, I ſay now it was the head of a Tray<g ref="char:EOLhyphen"/>tor, with many other things to the like effect. For which moſt abhorrid Treaſon, the Jury found him guilty; and he was Condemned to be hang'd at <hi>Tyburn:</hi> nevertheleſs, his Execution (for ſome reaſons) is hi<g ref="char:EOLhyphen"/>therto ſuſpended.</p>
+            </div>
+            <div type="part">
+               <p>This was the end of ſuch Traytors as were then taken; as for thoſe who ſurrendred themſelves according to the Proclamation ſet out by the King for that purpoſe: <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>OWen Row.</item>
+                  <item>Auguſtine Garland.</item>
+                  <item>Edmund Harvey.</item>
+                  <item>Henry Smith.</item>
+                  <item>Henry Martin.</item>
+                  <item>George Fleetwood.</item>
+                  <item>Simon Meyne.</item>
+                  <item>Will. Heveningham.</item>
+                  <item>Iſaac Pennington.</item>
+                  <item>
+                     <hi>Sr.</hi> Hardeſs Waller.</item>
+                  <item>Robert Tichbourn.</item>
+                  <item>Iames Temple.</item>
+                  <item>Peter Temple.</item>
+                  <item>Tho. Waite.</item>
+                  <item>Rob. Lilburn.</item>
+                  <item>Gilbert Millington.</item>
+                  <item>Vincent Potter.</item>
+                  <item>Thomas Wogan, and Iohn Downes.</item>
+               </list>
+               <p>Though they be all attainted, and convicted of High Treaſon by the Law of the Land, at a fair and legal Tryal, yet are they not to ſuffer the pains of Death, until His Majeſty by the advice and aſſent of the Lords and Commons in Parliament, ſhall order their Execu<g ref="char:EOLhyphen"/>tion by an Act to be paſſed for that purpoſe.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:51373:16"/>
+               <p>
+                  <note place="margin">John Okey</note>THis was one of <hi>Olivers Inſecta animalia.</hi> A Welch Salamander, in plain Engliſh, a States Cricker; for he was begot, and bred up in a Brewers Stoke hole. A Maggot of his new Common-wealth: generated out of putrefaction, (like a Docc from a Dunghill:) whoſe chief ſubſiſtance depended upon the deſtruction of others.</p>
+               <p>But the States Chronicles ſpeak him of a better ex<g ref="char:EOLhyphen"/>traction; affirming the Original of this Babe of Grace was (like that of the Goddeſs <hi>Venus</hi>) from ſuch frothy dreggs as were purged, and raked out of the Bung-hole, (of that choſen Veſſel of Reformation,) <hi>Cromwel</hi> the Brewer, by <hi>Pride</hi> his Dray-man: who afterwards being liſted by <hi>Scot,</hi> the Brewers Clark, in the Muſter-roll of the Saints militant, he quickly became a Stout Champion for their <hi>Good Old Cauſe.</hi>
+               </p>
+               <p>A Fellow, indeed (give the Devil his due) of excel<g ref="char:EOLhyphen"/>lent courage; full of valour; but empty of brains. A better Conductor, than a Polititian; one whom <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> ſeldom made other uſe of, than the Monkey of the Cats foot, to rake Chef-nuts out of the fire, whilſt he devoured them: for in all Battails, or deſperate at<g ref="char:EOLhyphen"/>tempts, the General uſually put him in the Van, to break the enemies wings; but reſerved the command of the Reer to himſelf, for the glory of the Victory.</p>
+               <p>
+                  <hi>February</hi> the 22. 1648, It was debated at a Coun<g ref="char:EOLhyphen"/>cel of War (this <hi>Okey</hi> then being one of the Cabab) to maſſacre, and put to the Sword all the Kings party; the queſtion was carried in the Negative onely by two voices; doubtleſs they had otherwiſe put it in execution.</p>
+               <p>Nor was he leſs officious in his combination with ſome others of the Army (ſoon after the ſiege of <hi>Colcheſter</hi>) when they petitioned the Houſe, that two or three prin<g ref="char:EOLhyphen"/>cipal Gentlemen of the Kings party by name (of every County) might be ſacrificed to juſtice, whereby the land might be freed from blood-guiltineſs.</p>
+               <p>A true Diſciple, and Imitator of his hot-headed compa<g ref="char:EOLhyphen"/>nion
+<pb n="29" facs="tcp:51373:16"/>
+                  <hi>Haſlerig,</hi> who upon<note n="*" place="margin">
+                     <hi>May</hi> 14th. 1649.</note> a report made to the Houſe of the Death of Doctor <hi>Doriſlaus,</hi> (formerly a poor School-maſter, but afterwards the Parliament Agent in the Low-Countreys, notwithſtanding upon the examination of his own Servants, it appeared he was nabbed by ſome Scotch-men in revenge of <hi>Homiltons</hi> Death yet) upon the occaſion of this debate he moved, that ſix Royaliſts of the beſt quality might be put to death, as a revenge for <hi>Doriſlaus;</hi> and to deter men from the like attempts hereafter. Which barbarous motion, though it was then rejected, yet the 18th of <hi>May</hi> following the Houſe paſſed this prodigious Declaration;</p>
+               <p>
+                  <hi>That if any more Acts of the like nature happened here-after, it ſhould be retaliated upon ſuch Gentlemen of the Kings party as had not yet compounded.</hi>
+               </p>
+               <p>Yet this not ſatisfying ſome of the blood-thirſty Gran<g ref="char:EOLhyphen"/>dees at <hi>White-Hall,</hi> they conſulted (without them) of a way to diminiſh the number of their oppoſites, Royaliſts, and Presbyterians, by a private maſſacre in the night time; for which purpoſe many dark-Lanthornes, and Ponyards were provided againſt<note n="*" place="margin">
+                     <hi>Anno</hi> 1649.</note> the Winter enſuing; this (Son of <hi>Belial</hi>) <hi>Okey,</hi> and his blind brother <hi>Hewſon,</hi> being deſigned two of the chief inſtruments, for effecting it. But the Plot being by one of their conclave timely revealed to the then Lord Major of <hi>London,</hi> and the City alarum'd with the danger; theſe Jeſuitical <hi>Fauxes,</hi> were forced to hide their horns, and put up their Daggers, for fear of a further diſcovery.</p>
+               <p>Thus you ſee of what Nature this Canibal Saint was. <hi>Ex pede Herculem;</hi> by the foot-ſteps of this Monſter you may gueſs at the proportion of his whole body.</p>
+               <p>Yet all theſe his barbarous actions, fell ſhort of thoſe committed againſt the pretious life of his Royal Sove<g ref="char:EOLhyphen"/>raign, <hi>Charles</hi> the firſt. But, <hi>Ne fandum ſcelus, majori ſcelere ad impletur;</hi> every hainous offence, ſtrives to ſe<g ref="char:EOLhyphen"/>cure it ſelf by a more hainous crime; for
+<q>
+                     <l>When Tyrants Swords in blood are dy'd,</l>
+                     <l>The Scabbards they muſt throw aſide.</l>
+                  </q>
+               </p>
+               <pb n="30" facs="tcp:51373:17"/>
+               <p>This was <hi>Machivils</hi> rule, and <hi>Okeys</hi> practice. For <hi>Cromwel</hi> having before well fleſht, this Beagle of his, in cruelties; he is now made one of the pack, (or ra<g ref="char:EOLhyphen"/>ther Butcher-row of Judges) for the Tryal of His Maje<g ref="char:EOLhyphen"/>ſly; and by his Maſter, hallowed on to hone in full cry after his death. In which he ſhewed himſelf ſo active an inſtrument; that finding his power; he reſolve to improve it to the uttermoſt; and to deal with the King, as it fareth with a Traveller ſallen into the hands of unmer<g ref="char:EOLhyphen"/>ciful Thieves; who firſt ſeized on his purſe, and then (to ſecure themſelves,) take away his life: So he being a Sharer with others in Crown Lands, that he might pre<g ref="char:EOLhyphen"/>vent the future revenge of his Treaſons, and Rebellions, and preſerve his ill-gotten eſtate, at laſt determines to ſeal his anjuſt Title with the innocent blood of his natu<g ref="char:EOLhyphen"/>ral Soveraign.</p>
+               <p>Not did his implacable Malice againſt his Majeſty reſt here: for, when a Committee, conſiſting of four per<g ref="char:EOLhyphen"/>ſons, was ordered by the Houſe, to conſider of a fit place (as they ſtyled it) to Execute the King. <hi>Okey</hi> (being appointed one of the number) perſwaded them to have the Scaffold erected before the Banquetting houſe at <hi>White-Hall;</hi> alledging, it was not onely the moſt con<g ref="char:EOLhyphen"/>venient place to bring him ſafe to the block; but proba<g ref="char:EOLhyphen"/>bly, it would ſtrike the more terrour into His Majeſty, to ſee himſelf bronght upon the Stage, to ſuffer before his own Palace-door, and ſo near that place his Father had built, and He, and his Children formerly enjoyed ſo much felicity.</p>
+               <p>In the mean time, to compleat this laſt tragick act of murdering his Prince; that he might mortifie him by degrees, he cauſed the King to be laid in a room at <hi>White-Hall</hi> the <hi>Sunday</hi> night after the day of his Sentence, ſo near the place apointed for the ſeparation of his ſoul from his Body, that he might hear every ſtroke the Workmen gave upon the Scaffold, (where they wraght all night) thinking by that Stratagem to have daunted his patient,
+<pb n="31" facs="tcp:51373:17"/>and unconquered Soul, which neither the helliſh ſhapes of his diſguiſed Executioners, nor the Horrour of Death it ſelf, were any wayes able to affright.</p>
+               <p>Nor can I here let paſs in ſilence, what I have heard reported from very credible perſons; That the night be<g ref="char:EOLhyphen"/>fore the Kings Death, (having removed him from <hi>White-Hall</hi> to St. <hi>Iames</hi>'s, he and <hi>Axtel</hi> cauſed a guard of diſſo<g ref="char:EOLhyphen"/>lute Souldiers to be placed in his Chamber; who (with tal<g ref="char:EOLhyphen"/>king; clinking of Pots; opening, and ſhutting of Doors; and taking of Tabacco there, (a thing very offenſive to the Kings nature) were ordered to keep him waking; that ſo by diſtempering and amazing Him for want of ſleep, they might not onely diſturb his preſent medita<g ref="char:EOLhyphen"/>tions; but ſo diſ-compoſe his ſpirits, as he might not the next day be able, by any premeditated ſpeech, to vindicate the innocency of his actions to the People.</p>
+               <p>O! barbarous! and unheard-of Cruelty! never hi<g ref="char:EOLhyphen"/>therto parallel'd by any Preſident in the world! But God at length delivered him up into the hands of his Ma<g ref="char:EOLhyphen"/>jeſty, to ſuffer condign puniſhment for being guilty of the Murther of His Father, and to be made an Example to deter poſterity from doing the like. Which Divine vengeance, though he had long eſcaped; yet he in the end found, that God does uſually recompence the ſlow<g ref="char:EOLhyphen"/>neſs of his coming, with the ſeverity of his wrath; ac<g ref="char:EOLhyphen"/>cording to that of the Poet,
+<q>
+                     <lg>
+                        <l>
+                           <hi>To pece are ſinit ſiquidem divina poteſtas</hi>
+                        </l>
+                        <l>
+                           <hi>Temporis ad ſpatium, parcit quandoque nocenti;</hi>
+                        </l>
+                        <l>
+                           <hi>Sed gravius tandem tormentum Rector Olympi</hi>
+                        </l>
+                        <l>
+                           <hi>Injungit, parcitque malis delict a nocentum.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Though God permits thy crimes long time to be</l>
+                        <l>Unpuniſh'd, and the 'nocent oft go free:</l>
+                        <l>'Tis but deferr'd thy torments to augment</l>
+                        <l>For murdering the juſt, and innocent.</l>
+                     </lg>
+                  </q>
+               </p>
+               <pb n="32" facs="tcp:51373:18"/>
+               <p>And ſuch was lately the end of this bold and bloody Regecide for being (together with his complices, <hi>Bark<g ref="char:EOLhyphen"/>ſtead</hi> and <hi>Corbet</hi> brought to the Kings Bench Bar upon the firſt day of <hi>Eaſter</hi> Term laſt, they were all by a Legal ſen<g ref="char:EOLhyphen"/>tense condemned to be hanged drawn and quartered, at <hi>Tyburn</hi> the Satterday following, which was according-Executed, upon <hi>Bark ſtead</hi> and <hi>Corbet,</hi> but by reaſon of <hi>Okeys</hi> penitent acknowledgement of his crimes and hearty prayers for his Majeſty, his body was by the Kings clemency ordered to be delivered to his wife, and was buried in the <hi>Tower</hi> of <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Miles Cor<g ref="char:EOLhyphen"/>bet.</note>TO wright his life, or draw his picture in its proper colonus, were to attempt impoſſibilities; ſince nei<g ref="char:EOLhyphen"/>ther his actions, or his face can be paralled by any but the Devil: for he is his own Son; and ſo like his father; that a Major in <hi>Ireland</hi> meeting him upon the road, and by his looks, ſuſpecting him to be rather a Purſevant of Hell, then one of the Parliaments Judges, forced him to alight from his Horſe, ſet down upon the ground; pull off his bootes, and ſtockings; and (at laſt) to ſhew him his bare feet: which being done, he in a very merry com<g ref="char:EOLhyphen"/>plement told him, he might now paſs for a man, but be<g ref="char:EOLhyphen"/>fore he had ſearched, whither or not he had Cloven feet, he could not beleive him any other then the Devil.</p>
+               <p>This is he who was Inquiſitor General, to the cloſe Committee of Examinations. An indigent perſon at the beginning of the Long Parliament, being indebted for himſelf, and his Mother above three thouſand pound more then he was worth. The Prologue to the Hang<g ref="char:EOLhyphen"/>man, that looks more like a Hangman, then the Hang<g ref="char:EOLhyphen"/>man himſelf; and may, (like <hi>Don Quixote</hi>) not un<g ref="char:EOLhyphen"/>deſervedly be ſtiled, the Knight of the ill favoured face.</p>
+               <p>His diſpoſition alſo holds good intelligence with his looks: you cannot ſay of him, as <hi>Suetonius</hi> of <hi>Galba, ingeni<g ref="char:EOLhyphen"/>um Galae male habitat,</hi> for they ſute ſo well the one with the
+<pb n="33" facs="tcp:51373:18"/>ther, that in my life I never met with a better <hi>deco<g ref="char:EOLhyphen"/>rum.</hi>
+               </p>
+               <p>
+                  <hi>Int us Nero: foris Cato; tet sambiguus; monſtrum eſt.</hi> A cruel <hi>Nero</hi> within; a grave <hi>Cate</hi> without; alwayes diſtruſtful, and a Monſter,
+<q>Aſtutam vapido ſervat ſub pectore vulpem.</q>
+               </p>
+               <p>His inſide is lined with Fox furt; his outſide with Sheeps-wool. One who had deeply engaged himſelf to live, and dye with his Patron <hi>Oliver;</hi> for which reaſon he was appointed to make a ſcrutiny into the lives, and actions of all ſuch perſons as he conceived diſ-affected to the Cromwellian party. A ſtrict examiner of every mans carriage but his own. So active, and vigorous in the proſecution of his malice, that when he could not ſuborne witneſſes to take away the life, of that ingenious writer of the Hiſtory of Independency, Mr. <hi>Clmenst Walker,</hi> he was permitted to be informer, witneſs, and judge againſt him, himſelf. But finding his defigne at that time fall ſhort of his expectation, he cauſed him pri<g ref="char:EOLhyphen"/>vately in the night to be ſoon after ſeized upon in his bed, by a Guard of Souldiers, and conveyed far off from the City, to a cloſe Priſon, where being debarred the uſe of either pen, ink, or Paper, or the liberty of any Friend to viſit him, after ſix years ſtrick confinement, Death put a period to this poor old Gentlemans ſufferings.</p>
+               <p>
+                  <hi>Philip</hi> King of <hi>Spain,</hi> Lord of the Seventeen Belgick Pro<g ref="char:EOLhyphen"/>vinces, ſent Duke <hi>D' Alva</hi> thither (another <hi>Cromwel</hi> in his cruelties) with a powerful Army; who taking advantage of ſome new commotions there, erected a new Tribonal Criminal, or High Court of Juſtice, called by the multi<g ref="char:EOLhyphen"/>tude <hi>Concilium Sanguinis,</hi> or the bloody Conventicle, conſiſting of twelve Perſons of mean extraction, to whom were given full power to inquire into, judge, examine, and determine, all cauſes whatſoever; and to diſpoſe of the lives and eſtates of every ſuch perſon they as thought fit to deſtroy, at their wills, and pleaſures. Which Counſel, or in<g ref="char:EOLhyphen"/>quiſition,
+<pb n="34" facs="tcp:51373:19"/>did ſuperſed all other Courts of Judicature, and made void all Laws, conſtitutions, Iuriſdictions, and privi<g ref="char:EOLhyphen"/>ledges of that Nation, by making every thing they plea<g ref="char:EOLhyphen"/>ſed High Treaſon.</p>
+               <p>
+                  <hi>Corbet</hi> taking advantage of this Preſident, perſwades <hi>Haſlerigg</hi> to move the Parliament to put it in execution here in <hi>England;</hi> which was accordingly done; and they finding him a fit Agent for ſuch a damnable enterpriſe, Ordred him (by an Act paſſed in the Houſe) to be cheif Interpreter to this their State Puppet-play; commonly called the cloſe Committee of Examinations: ere<g ref="char:EOLhyphen"/>cted to purge the Houſe of ſuch Loyal Members as ſtood diſaffected with their proceedings. And the firſt ex<g ref="char:EOLhyphen"/>periment he made of this his Tyranical Power, was upon the aforeſaid Mr. <hi>Walker,</hi> Mr. <hi>Baynton</hi> Mr. <hi>Re<g ref="char:EOLhyphen"/>corder Glyn,</hi> Commiſſary General <hi>Copely,</hi> and ſeveral o<g ref="char:EOLhyphen"/>thers of the Houſe of Commons; who without any le<g ref="char:EOLhyphen"/>gal tryal; hearing, or witneſſes produced beſide himſelf, (who ſupplyed the office of a Judge, Proſecutor, Jury, and evidence againſt them) they were immediately ex<g ref="char:EOLhyphen"/>pelled the Houſe of Commons, and ſoon after (together with the Earles of <hi>Suffolke, Lincoln, Middleſex,</hi> the Lord <hi>Berkley, Willioughly, Hunsdon,</hi> and <hi>Maynyard</hi>) impeached by him of high Treaſon, in the names of the Commons of <hi>England,</hi> for leavying a War againſt the King and Parlia<g ref="char:EOLhyphen"/>ment. Wherein this Blood-hound <hi>Corbet,</hi> (who of an Examiner, was now become an Advocate General) moved for judgement to be pronounced againſt them; like the greedy Horſe-leech,
+<q>Nec miſſura cutem, niſi plena cruoris hirudo,</q>
+               </p>
+               <p>Still thirſting after blood, but never ſatisfied. For which bold act, and diligent ſervice, (though it ſucceeded not) he was afterwards recompenced with a Rich Office of Regeſter in the <hi>Chancery</hi> (a place eſtimated at One thouſand ſix hundred pound <hi>per annum;</hi> and next made one of the Judges for the Circuit in <hi>Ireland,</hi> (valued at
+<pb n="35" facs="tcp:51373:19"/>five hundred pounds more <hi>per annum,</hi>) where he condem<g ref="char:EOLhyphen"/>ned many perſons to the Gallowes, whoſe crimes far leſs deſerved it then his own.</p>
+               <p>Nor was he leſs troubleſome to the Church, then he had formerly been to the State. For finding <hi>Veſpatians</hi> Motto, <hi>Bonus odor lucri ex re qualibet,</hi> (that wealth was ſweet how ill ſoever got) he obtained another office from his bountiful Maſters at <hi>Weſtminſter</hi> (worth at leaſt) One thouſand five hundred pound more <hi>per annum, viz.</hi> to be Chair-man for ſcandalous Miniſters. The Preiſis Tormentor; or Maſter Examiner of all ſuch Clergy men, as were either already Beneficed, or to be admitted to a<g ref="char:EOLhyphen"/>ny Benefice throughout the Nation. In which place he ſo well played his Cards, that ſuch of the Kings friends as were before ſettled in their livings, were forced to compound with him for their continuance; and others who came to him for admittance, if he could not object any thing againſt their anſwers to ſuch impertinent que<g ref="char:EOLhyphen"/>ſtions as he uſally propounded to them; his next artifice was to render them the new Engagement, to be obedi<g ref="char:EOLhyphen"/>ent to <hi>Oliver,</hi> and maintain the <hi>Good Old Cauſe,</hi> againſt all Kingly power, or Houſe of Lords; in ſo much as not one of ſuch as were Learned, Loyal, or Orthodox Divines, could ever gain his conſent to any living; nor indeed any other (though of his own Tribe and Faction) without giving him a conſiderable gratuity, to the full value of their firſt years fruits (at the leaſt) for a Bribe.</p>
+               <p>A perfect Symonaick; one that was able to devour a whole Church at a Break-faſt; and ſwallow down St. <hi>Peters</hi> Patrimony after it, inſtead of a Mornings-draught. Alwaies feeding; yet never filled; like <hi>Eriſict hons</hi> bow<g ref="char:EOLhyphen"/>els in <hi>Ovid,</hi>
+                  <q>
+                     <l>— <hi>Quodque urbibus eſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Quedque ſatis poter at populo, non ſufficit uni.</hi>
+                     </l>
+                     <l>What populous Cities might alone</l>
+                     <l>Suffice, is not enough for one.</l>
+                  </q>
+               </p>
+               <pb n="36" facs="tcp:51373:20"/>
+               <p>This was the man who ſo much applauded Coronet <hi>Ioyce</hi> for ſurprizing the Kings perſon at <hi>Holdenby</hi> houſe, when he was by <hi>Cromwel</hi> ſent to him with Orders to bring his Majeſty the ſame night with all ſpeed and ſe<g ref="char:EOLhyphen"/>crecy to the Army; boaſting the next day, that ſince the Army had gotten the Cavalier Idol (for ſo he ſtiled his Soveraign) into their power, they would ſoon put the Parliament, and all their Enemies, into their poc<g ref="char:EOLhyphen"/>kets.</p>
+               <p>An inſolent ſlave! whofe Crimes tranſcending all hopes of Pardon, made him as violent in the proſecution of his Helliſh machinations, as he was deſperate of Hea<g ref="char:EOLhyphen"/>vens mercy in the for giveneſs of his fins.</p>
+               <p>But I will not caſt any more Ink upon this <hi>Aethiopians</hi> face, ſince I find it impoſſible (whether I reflect upon his crimes, or his countenance) to repreſent either of them to the view of the world, blacker, or more horrid, than really they are. He is now rewarded for his Trea<g ref="char:EOLhyphen"/>ſon, ſo as to ſpeak more againſt him were but to wage War with the Dead; which Italian ſeverity, is as much averſe to my nature, as it is contrary to the Principles of Chriſtianity: Therefore <hi>no quid gravius dicam;</hi> whe<g ref="char:EOLhyphen"/>ther I look upon his actions, or his end, I ſhall be no more invective againſt him.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">John Bark<g ref="char:EOLhyphen"/>Read.</note>ROom for this Jack of all Trades. A Congregational Saint. The Holy-ſiſters Thimble-maker. <hi>Crom<g ref="char:EOLhyphen"/>wels</hi> ſetting Dog.. The Common-wealths <hi>Cerberus; Inferna janitor aulae,</hi> The Helliſh Gaolor of the Tower, and cruel Tormentor of ſuch Gentlemen as he could get into it. A fellow cut out, and fitted for all Deſigns, Religions, and Faſhions, whatſoever: ſo as you may ſay of him, as the Poet of <hi>Pretem,</hi>
+                  <q>Que teneam nodo mutantem Proter a vultum?</q>
+                  <pb n="37" facs="tcp:51373:20"/>A Devil incarnate in his cruelties. No Fury in Hell ever tranſcended him in his Tyranny over Priſoners, du<g ref="char:EOLhyphen"/>rinſt his Lieutenantſhip of the Tower.</p>
+               <p>Witnes his inhumane dealings with diverſe eminent perſons (loyal to His late Majeſties intereſt) into whoſe favours, (under pretence of Eriendſhip) having firſt inſi<g ref="char:EOLhyphen"/>nuated himſelf, he next trappan'd into his ſnare, by forg<g ref="char:EOLhyphen"/>ing lyes, and Plots of his own making, againſt them, and afterwards ſuborned Witneſſes (as formerly <hi>Brad<g ref="char:EOLhyphen"/>ſhaew</hi> and <hi>Mildmay</hi> did thoſe two Knights of the Poſt, <hi>Pitts</hi> and <hi>Bernard,</hi> againſt Sr. <hi>Iohn Gell</hi> and Colonel <hi>An<g ref="char:EOLhyphen"/>drews</hi>) to take away their lives (by a High Court of In<g ref="char:EOLhyphen"/>juſtice) when he could no longer ſqueeze any profit out of their bodies.</p>
+               <p>Witneſs his private tranſporting of many hundred of poor Caveliers beyond the Seas, whom this States ſpirit, barbarouſly ſold, to be made Gally-ſlaves to Turkes, and Pagans: which miſer able ſervitude they muſt inevi<g ref="char:EOLhyphen"/>tably endure, till Death (more merciful than this Mon<g ref="char:EOLhyphen"/>ſter,) puts a period to their miſeries.</p>
+               <p>I could inſtance above two hundred Gentlemen by him clapt in the Tower, without any accuſation, or accuſor made known; where ſome of them were detained ma<g ref="char:EOLhyphen"/>ny years, without any legal proceedings or charge againſt them: he, and his Maſter <hi>Oliver</hi> (who continually fur<g ref="char:EOLhyphen"/>niſhed him with blanck Warrants for that purpoſe) ſha<g ref="char:EOLhyphen"/>ring between themſelves in the mean time, their Eſtates, Offices, and Revenues; whilſt theſe were left to ſtarve, rot, and dye in naſty rooms (purpoſely provided to de<g ref="char:EOLhyphen"/>ſtroy them,) without any relief, or maintenance whatſo<g ref="char:EOLhyphen"/>ever. For not one of their Friends dare lend, or ſend them money, or any of their Kindred come near them, for fear of being committed Priſoners, or (at leaſt) queſtioned for malignants. So as his Priſon was become a private Slaughter-houſe, and <hi>Olivers</hi> Court the publick Shambles of injuſtice.</p>
+               <p>It was the Cuſtom of King <hi>Charles</hi> the firſt, and his Predeceſſors, to grant all owance to Priſoners in the
+<pb n="38" facs="tcp:51373:21"/>Tower, during their confinements, according to their ſeveral degrees; <hi>viz.</hi> 51. weekly for an Eſquire, &amp;c. and ſo proportionably for every perſon ſuitable to his quality. But ſo far was this Canibal from giving, or al<g ref="char:EOLhyphen"/>lowing any thing towards their ſubſiſtance; that he con<g ref="char:EOLhyphen"/>verted thoſe Fees to his own uſe, and cauſed them to be ſhut up cloſe Priſoners, in unwholſome Chambers; de<g ref="char:EOLhyphen"/>nying them the liberty of the Tower, and b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nefit of the freſh air (the Camelious dyet) for their healths, or re<g ref="char:EOLhyphen"/>ſort of Friends for their accomodations.</p>
+               <p>The Fable of the <hi>Promethean vulture</hi> was but an Em<g ref="char:EOLhyphen"/>bleme of this Monſter: for ſo long as his power laſted, he continually knaw'd upon the hearts of ſuch perſons as were under his cuſtody: his Office reſembling that of the Sheep-heards Dog, to worry Sheep firſt, and af<g ref="char:EOLhyphen"/>terwards drive them into his pinfolds.</p>
+               <p>He was <hi>Cromwels</hi> Coy-duck whilſt he lived.
+<q>Offitioſa aliu, exiti ſa ſuis,</q> ever imployed, and very officious to bring ſtore of game into his Maſters nets: one that had learned to give poy<g ref="char:EOLhyphen"/>ſon into a golden cup; and knew well how to deceive, even with Scripture plaraſes: like her in <hi>Claudian,</hi>
+                  <q>
+                     <l>
+                        <note n="*" place="margin">Claudian de volup<g ref="char:EOLhyphen"/>tate Stili<g ref="char:EOLhyphen"/>conis lib. 2.</note>Blanda quidem vultu, ſed quae non tetriox ulla</l>
+                     <l>Interius fucatagenas, &amp; amict a doloru</l>
+                     <l>Illecibris —</l>
+                     <l>
+                        <hi>An outward Saint; an inward Devil;</hi>
+                     </l>
+                     <l>
+                        <hi>A painted face, but full of evil.</hi>
+                     </l>
+                  </q> One who coveted to be rich, and great in power, that his greatneſs might equal his malice: like him in the Poet,
+<q>
+                     <l>
+                        <hi>Qui tantum ut noceat, cupit eſſe potens</hi> —</l>
+                     <l>Who rays'd himſelf out of the dirt,</l>
+                     <l>That he might have more power to hurt.</l>
+                  </q>
+               </p>
+               <pb n="39" facs="tcp:51373:21"/>
+               <p>Baſe men, when they climb to any height, prove above all others, moſt proud, and ambitious; as appeared by this man, who being beggarly born, and of contempti<g ref="char:EOLhyphen"/>ble Parents, became the moſt cruel, and fierceſt blood<g ref="char:EOLhyphen"/>hound of all <hi>Olivers</hi> pack.</p>
+               <q>
+                  <l>
+                     <hi>Aſperius nihilest humili, cum ſurgit in altum.</hi>
+                  </l>
+                  <l>None are more cruel than mean men rays'd high,</l>
+                  <l>Or Beggars mounted on a Palfery.</l>
+               </q>
+               <p>For ſet but any of theſe proud Raskals on Horſe-back, and they will never reſt, till (like their Comerade <hi>Pri<g ref="char:EOLhyphen"/>de aux</hi>) they have made good the Proverb, and ride Poſt to the Devil.</p>
+               <p>When Traytors are climbing up Fortunes Wheel, <hi>Derrick</hi> commonly watches under-neth it to catch them.</p>
+               <q>
+                  <l>— toll untur in altum</l>
+                  <l>Ut lapſu graviore ruant.</l>
+               </q>
+               <p>This proved at laſt his reward, for his horrid villa<g ref="char:EOLhyphen"/>nies, treaſons, and murdering his Soveraign. A Legacy long ſince given and bequeathed to him by his fellow<g ref="char:EOLhyphen"/>ſufferers and Brethren in iniquity, <hi>Harriſon, Scot, Axtel,</hi> and <hi>Hugh Peters;</hi> who made the Hang-man. Exe<g ref="char:EOLhyphen"/>cutor to their laſt Wills, and Teſtaments, To whoſe mer<g ref="char:EOLhyphen"/>cy I leave him and <hi>Corbet,</hi> concluding with this Epi<g ref="char:EOLhyphen"/>taph;
+<q>
+                     <lg>
+                        <l>HEre lyes poor <hi>Iohn;</hi> who was not beat to death</l>
+                        <l>As Stock-fiſh are; but onely loſt his breath.</l>
+                        <l>Whilſt he aſpir'd himſelf on high to rayſe,</l>
+                        <l>He gain'd a wreath of Hemp, inſtead of Bayes;</l>
+                        <l>The Fate of Traytors! may all periſh ſo,</l>
+                        <l>That ſeek their King, and Kingdoms over-throw.</l>
+                        <l>
+                           <hi>Dun</hi> was his Doctor; who thought fit to bind</l>
+                        <pb n="40" facs="tcp:51373:22"/>
+                        <l>A Cord about his neck, to keep the wind</l>
+                        <l>From fuming up his head. But, (O! ſad note!)</l>
+                        <l>The Rope begot a ſquinzy in his throat,</l>
+                        <l>Which choakt him up! although ſome buſie tongues</l>
+                        <l>Report, it was the obſtruction of his lungs</l>
+                        <l>That caus'd his ſudden Death. Let all who are</l>
+                        <l>His Friends, by his example have a care</l>
+                        <l>How they come under this rude Doctors pawes;</l>
+                        <l>Who onely practices the <hi>Tyburn</hi> Lawes,</l>
+                        <l>In making falling-bands, or knitting-knots,</l>
+                        <l>That cure diſeaſes, beyond the Galli-pots.</l>
+                     </lg>
+                     <lg>
+                        <l>A Rogue ſo known in Hell; each Seſſions thence</l>
+                        <l>They ſend Fiends to him for intelligence,</l>
+                        <l>What gueſts are coming to the Sti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ian Court?</l>
+                        <l>Whether the greater? or the meaner ſort?</l>
+                        <l>Traytors, or Thieves? to whom he anſwer makes</l>
+                        <l>When <hi>Phoebe</hi> once her waining horns forſakes,</l>
+                        <l>And Eaſter Term begins; I'le ſend you<note n="*" place="margin">Corbet.</note> one</l>
+                        <l>Whoſe looks ſhall 'ffright grim <hi>Pluto</hi> from his throne,</l>
+                        <l>And ſcare the leſſer Devils thence, when there</l>
+                        <l>They ſee one Blacke<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> than themſelves appear.</l>
+                        <l>But when <hi>Dun</hi> named <hi>Corbet,</hi> they reply'd</l>
+                        <l>He's <hi>Pluto</hi>'s Kinſman by he mothers ſide,</l>
+                     </lg>
+                     <lg>
+                        <l>We know him well, bid him make haſte; for hee</l>
+                        <l>Is welcome to our black Fraternitie.</l>
+                     </lg>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">William Munſun, Henry Mildmay, <hi>and</hi> Rob. Wallup.</note>As for that female Town-top (and great devourer of of buttered Peaſon) <hi>William</hi> (late Lord) <hi>Mun<g ref="char:EOLhyphen"/>ſon,</hi> (formerly a Page, but now a cloſe Priſoner in the <hi>Fleet;</hi>) <hi>Harry</hi> (once Sr. <hi>Henry</hi>) <hi>Mildmay,</hi> and <hi>Ro<g ref="char:EOLhyphen"/>bert Wallup,</hi> who did all actually ſit as Judges upon the Tryal of their lawful Soveraign King <hi>Charles</hi> the firſt; by reaſon it appeared that they were abſent from the pretended Hight Court of Juſtice at ſuch time as Sen<g ref="char:EOLhyphen"/>tence paſſed to take away the Kings life; His Maſeſty was g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atiouſly pleaſed to refer the manner of their puniſhments to His High Court of Parliament who ſoon after (upon a Serious debate in both Houſes) paſſed an
+<pb n="41" facs="tcp:51373:22"/>Act (too merciful for ſuch ingrateful Traytors, though in ſome ſort ſuitable to the quality of their Crimes) <hi>viz.</hi> That their Eſtates ſhould be Confiſcated, and their perſons drawn upon Sledges from the <hi>Tower</hi> to <hi>Tyburn,</hi> with Ropes about their Necks, and to be degraded of their Honours and Titles, &amp;c. which was accordingly Executed upon the 27th of <hi>Ianuary</hi> following, An. 1661. (it being the ſame day that the King was Condemned to death) many thouſands of people being Spectators of their infamy; who, not onely at the Gallows, but as they paſſed in the ſtreets, bitterly curſed and reviled them; inſomuch; that <hi>Wallup</hi> (being of that ſhameful puniſhment more ſenſible than the other of the horrid ſin he had committed, as well as of the eternal ignominy, and general <hi>Odium</hi> of the people upon him, for being guilty of ſo barbarous a Crime) was ſuddenly after vio<g ref="char:EOLhyphen"/>lently ſurprized with ſuch tormenting paſſions of Grief &amp; Deſpair, that they ſoon made a ſeparation between his ſoul and his Body, ſo as he finiſhed his miſerable life in the Tower, within a few dayes after his Proceſſion to <hi>Tyburn.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">
+                     <hi>Capt.</hi> Tho<g ref="char:EOLhyphen"/>mas.</note>NOR was the late ſtrange, but juſt Judgement of God leſs obſervable upon Captain <hi>Thomas,</hi> that notorious <hi>Quaker,</hi> and violent Agitator in <hi>Cromwels</hi> Ar<g ref="char:EOLhyphen"/>my; who having poyſoned his Fellow-ſouldiers with Hereſie, and Rebellion, and perſwaded many of them to joyn with him in promoting the Armies Remonſtrance, for bringing King <hi>Charles</hi> the firſt to a ſpeedy Tryal; it at length pleaſed the Almighty in a miraculous manner, to revenge the innocent blood of that Bleſſed Martyr, upon this Phanatick Rebel; for in the beginning of <hi>April</hi> laſt paſt 1661. he (then being in the City of <hi>Hereford</hi>) went to an Apothecaries Shop, where he bought ſome quan<g ref="char:EOLhyphen"/>tity of <hi>Acouitum,</hi> or Rats-bane, which having put into Milk, he drank it up privately in his Chamber, but find<g ref="char:EOLhyphen"/>ing it not of ſo quick operation as was expected, he went back to the Apothecary to be ſatisfied, whether it was
+<pb n="42" facs="tcp:51373:23"/>right Rats-bane or not, that he had ſold him? He an<g ref="char:EOLhyphen"/>ſwered, it was; whereupon he replyed, <hi>Then I have what I deſired;</hi> and departing back to his Lodging, the poyſon began to work ſo violently upon him, that within few hours after he in great torment ended his wretched life, whoſe dead body the Magiſtrates of that City, (con<g ref="char:EOLhyphen"/>ſidering the quality of the perſon, and the Lawes againſt ſelf-murder) would not permit to be buried in Chriſtian burial.</p>
+            </div>
+            <div type="part">
+               <p>Thus Reader you may ſee how many ſeveral wayes God hath hitherto pleaſed to execute his vengeance, upon the perſons, and poſterity of ſuch men who without any cauſe, nay contrary to Reaſon, Lawes both Divine, and Humane, yea, even in defiance of Heaven, dipped their hands in the ſacred blood of their lawful Soveraign according, to that of the Wiſe Man, <hi>The eye that mocketh his Father (viz.</hi> the King, who is ſtiled <hi>Pater Patriae) and deſpiſeth his Mother</hi> (that is the Church, called <hi>Reg<g ref="char:EOLhyphen"/>ni pia Mater) the Ravens of the Valley ſhall pick it out.</hi> Which judgement we ſee hath befallen many of the be<g ref="char:EOLhyphen"/>fore-mentioned Regicides, their heads in ſeveral places being become a Spectacle both to Angels and Men, and a prey to the Birds of the Air.</p>
+               <p>I ſhall conclude all with this Exhortatory Advice, That though God hath been pleaſed in his wrath to deprive this Nation of the beſt, and moſt pious King that ever before raigned over it, Yet hath he fince in mercy re<g ref="char:EOLhyphen"/>ſtored (even to admiration) His Son to the Throne of His Bleſſed Father; (a Prince of ſuch accompliſht Ver<g ref="char:EOLhyphen"/>tues, Piety, Wiſdom, and Magnanimity, that render Him the delight of his Subjects, and a terrour to his Ene<g ref="char:EOLhyphen"/>mies;) let us therefore lay aſide all animoſities, one againſt the other: and render (without grudging) unto <hi>Caeſar</hi> the things that are <hi>Caeſars;</hi> acknowledging Him Gods immediate Vicegerent; without being ſo impu<g ref="char:EOLhyphen"/>dent as to preſcribe Him in what manner or by what means we will be ruled; or ſo Rebellious, as to
+<pb n="43" facs="tcp:51373:23"/>draw our Swords againſt Gods Annointed under pre<g ref="char:EOLhyphen"/>tence of Religion, or publique good; But rather with Obedience, and Humility, ſubmit to His Commands, and confeſs with the Children of <hi>Iſrael, Becauſe the Lord hath delighted in us, therefore He hath made Him King over us.</hi>
+               </p>
+               <p>And finally, let every good Subject pray, that God would ſend us Peace, and Truth; preſerve His Sacred Majeſty, and his Poſterity; and confound the wicked Councels of all ſuch as are Enemies to Peace, Piety, and Monarchy. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:51373:24"/>
+            <head>Some Books Printed by <hi>Phil. Stephens,</hi> at the <hi>Kings Arms,</hi> over againſt the Middle Temple Gate in <hi>Fleetſtreet.</hi>
+            </head>
+            <p>
+               <hi>THE Great Antichriſt,</hi> never till now fully diſcovered and pro<g ref="char:EOLhyphen"/>ved, to be neither Pope nor Turk, nor any ſingle perſon, nor any one Monarch, nor Tyrant in any <hi>Politie,</hi> but a pack or multitude of Hy<g ref="char:EOLhyphen"/>pocritical, Heretical, Blaſphemous, and Scandalous wicked men, which have fulfilled thoſe P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ophecies of the Scriptures, that were fore-ſpoken of the coming of the <hi>Geeat Antichriſt,</hi> and eſpecially have united them together by Solemn <hi>League</hi> and <hi>Covenant,</hi> to ſlay the two Witneſſes of God, — The Supreme Magiſtrate, and chief Governour of the Church. — And the Reader is deſired to judge whether the <hi>Pres<g ref="char:EOLhyphen"/>byterians, Independents, Anabaptiſts,</hi> and <hi>Lay-Preachers,</hi> be not the falſe Prophet and Myſtical Soul of the <hi>Great Antichriſt;</hi> and the prevalent Faction of the Long Parliament be not the viſible body of the <hi>Great Antichriſt,</hi> in <hi>Folio. 7 <abbr>s.</abbr>
+               </hi>
+            </p>
+            <p>Seven Treatiſes; The Murther of Jeſus paralleld to K. <hi>Charls.</hi> the firſt. <hi>2.</hi> The Tragedy of <hi>Zimri,</hi> that ſlew the King his Maſter. <hi>3.</hi> Gods war with Rebels and Murtherers. <hi>4.</hi> The lively Picture of theſe times. <hi>5.</hi> The Duties of every Chriſtian man. <hi>6.</hi> The Prero<g ref="char:EOLhyphen"/>gatives of true Saints. <hi>7.</hi> The true cauſe why we ſhould love God. Whereunto is annexed a Declaration and juſt Judgement upon the Kings Enemies and Friends that neglected him. Together with the Treache<g ref="char:EOLhyphen"/>rous Scots, Bloody Iriſh, the Presbyterians in general, and in particu<g ref="char:EOLhyphen"/>lar, the Members of the Long and Rump-Parliament. Together with <hi>Irelands</hi> preſent and paſt condition, ſtated in a Remonſtrance to King and Parliament, in <hi>Folio. 6 <abbr>s.</abbr>
+               </hi> Both written by the Reverend Father in God <hi>Gruſſith,</hi> Lord Biſhop of <hi>Oſſory.</hi>
+            </p>
+            <p>Several Sermons Preached at the Temple and elſewhere, proving the Nomothetical and Coercive power of the King in Eccleſiaſtical affairs. — The Epiſcopal Office and Dignity, Together with a Vindication of the Liturgy of the Church of <hi>England,</hi> by Mr. <hi>G. Maſterſon.</hi> in <hi>Octavo. 1 <abbr>s.</abbr>
+               </hi>
+            </p>
+            <p>An Entertainment for the Holy time of <hi>Lent,</hi> — by <hi>Nich. Cauſinus,</hi> Author of the Holy Court. —</p>
+            <p>A Scripture Combat about buſineſs of Religion, between a Roman Catholick Lady and the Wife of a dignified perſon in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>An Invective againſt the Army and their Abettors, who Murthered King <hi>Charls</hi> the firſt; by the Reverend Father in God <hi>John,</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Exeter.</hi>
+            </p>
+            <p>The Devout Ceremony of bowing towards the Altar Vindicated as Lawful, Pious and Laudable in a Divinity Lecture at <hi>Cambridge;</hi> by Dr. <hi>Duncon,</hi> Chaplain to His Majeſty.</p>
+            <pb facs="tcp:51373:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
